@@ -1,0 +1,1212 @@
+# 📋 1000 Hệ thống cho môn SWR302 — Song ngữ Anh-Việt
+
+> Phân loại theo **25 lĩnh vực (Domain)**  
+> Tổng: **1000 hệ thống** | Đánh số liên tục 1–1000
+
+---
+
+## 🎓 DOMAIN 1: Education & Learning | Giáo dục & Học tập (1–50)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 1 | Student Information Management System | Hệ thống Quản lý Thông tin Sinh viên |
+| 2 | Online Learning Management System | Hệ thống Quản lý Học trực tuyến |
+| 3 | University Admission System | Hệ thống Tuyển sinh Đại học |
+| 4 | Course Registration System | Hệ thống Đăng ký Môn học |
+| 5 | Academic Transcript Management System | Hệ thống Quản lý Bảng điểm Học vụ |
+| 6 | E-Learning Platform | Nền tảng Học tập Điện tử |
+| 7 | School Timetable Management System | Hệ thống Quản lý Thời khóa biểu |
+| 8 | Teacher Performance Evaluation System | Hệ thống Đánh giá Hiệu quả Giảng viên |
+| 9 | Online Examination System | Hệ thống Thi trực tuyến |
+| 10 | Scholarship Management System | Hệ thống Quản lý Học bổng |
+| 11 | Student Attendance Tracking System | Hệ thống Theo dõi Điểm danh Sinh viên |
+| 12 | Library Management System | Hệ thống Quản lý Thư viện |
+| 13 | Curriculum Design & Management System | Hệ thống Thiết kế và Quản lý Chương trình Học |
+| 14 | Alumni Management System | Hệ thống Quản lý Cựu sinh viên |
+| 15 | Parent-Teacher Communication System | Hệ thống Liên lạc Phụ huynh - Giáo viên |
+| 16 | Student Dormitory Management System | Hệ thống Quản lý Ký túc xá Sinh viên |
+| 17 | Academic Research Management System | Hệ thống Quản lý Nghiên cứu Học thuật |
+| 18 | Tuition Fee Management System | Hệ thống Quản lý Học phí |
+| 19 | Online Quiz & Assignment System | Hệ thống Bài kiểm tra & Bài tập trực tuyến |
+| 20 | Kindergarten Management System | Hệ thống Quản lý Trường mầm non |
+| 21 | High School Management System | Hệ thống Quản lý Trường THPT |
+| 22 | Vocational Training Management System | Hệ thống Quản lý Đào tạo Nghề |
+| 23 | Student Counseling System | Hệ thống Tư vấn Sinh viên |
+| 24 | Digital Classroom Management System | Hệ thống Quản lý Lớp học Số |
+| 25 | Education Analytics & Reporting System | Hệ thống Phân tích & Báo cáo Giáo dục |
+| 26 | Language Learning Platform | Nền tảng Học Ngôn ngữ |
+| 27 | Teacher Certification Management System | Hệ thống Quản lý Chứng chỉ Giáo viên |
+| 28 | Internship & Job Placement System | Hệ thống Thực tập & Giới thiệu Việc làm |
+| 29 | Student Club & Activity Management System | Hệ thống Quản lý CLB & Hoạt động Sinh viên |
+| 30 | Educational Resource Sharing System | Hệ thống Chia sẻ Tài nguyên Giáo dục |
+| 31 | Online Tutoring Platform | Nền tảng Gia sư trực tuyến |
+| 32 | Plagiarism Detection System | Hệ thống Phát hiện Đạo văn |
+| 33 | School Bus Tracking System | Hệ thống Theo dõi Xe buýt Trường học |
+| 34 | Student Health Record System | Hệ thống Hồ sơ Sức khỏe Sinh viên |
+| 35 | Special Education Management System | Hệ thống Quản lý Giáo dục Đặc biệt |
+| 36 | Virtual Laboratory System | Hệ thống Phòng thí nghiệm Ảo |
+| 37 | Accreditation Management System | Hệ thống Quản lý Kiểm định Chất lượng |
+| 38 | Student Financial Aid System | Hệ thống Hỗ trợ Tài chính Sinh viên |
+| 39 | Classroom Booking System | Hệ thống Đặt phòng học |
+| 40 | Graduate Thesis Management System | Hệ thống Quản lý Luận văn Tốt nghiệp |
+| 41 | International Student Management System | Hệ thống Quản lý Sinh viên Quốc tế |
+| 42 | Blended Learning Management System | Hệ thống Quản lý Học tập Kết hợp |
+| 43 | School Canteen Management System | Hệ thống Quản lý Căng tin Trường học |
+| 44 | Student Portfolio Management System | Hệ thống Quản lý Hồ sơ Năng lực Sinh viên |
+| 45 | Gamified Learning Platform | Nền tảng Học tập Gamification |
+| 46 | Peer Review & Assessment System | Hệ thống Đánh giá Đồng đẳng |
+| 47 | Campus Visitor Management System | Hệ thống Quản lý Khách thăm Khuôn viên |
+| 48 | Educational Grant Management System | Hệ thống Quản lý Tài trợ Giáo dục |
+| 49 | Faculty Workload Management System | Hệ thống Quản lý Khối lượng Công việc Giảng viên |
+| 50 | Competency-Based Education System | Hệ thống Giáo dục theo Năng lực |
+
+---
+
+## 🏥 DOMAIN 2: Healthcare & Medical | Y tế & Chăm sóc Sức khỏe (51–120)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 51 | Hospital Management System | Hệ thống Quản lý Bệnh viện |
+| 52 | Patient Record Management System | Hệ thống Quản lý Hồ sơ Bệnh nhân |
+| 53 | Appointment Booking System (Hospital) | Hệ thống Đặt lịch Khám bệnh |
+| 54 | Pharmacy Management System | Hệ thống Quản lý Nhà thuốc |
+| 55 | Electronic Health Record (EHR) System | Hệ thống Hồ sơ Sức khỏe Điện tử |
+| 56 | Medical Billing & Insurance System | Hệ thống Hóa đơn Y tế & Bảo hiểm |
+| 57 | Clinical Laboratory Management System | Hệ thống Quản lý Phòng Xét nghiệm Lâm sàng |
+| 58 | Telemedicine Platform | Nền tảng Khám bệnh từ xa |
+| 59 | Blood Bank Management System | Hệ thống Quản lý Ngân hàng Máu |
+| 60 | Medical Inventory Management System | Hệ thống Quản lý Tồn kho Vật tư Y tế |
+| 61 | Radiology Information System | Hệ thống Thông tin Chẩn đoán Hình ảnh |
+| 62 | Nursing Care Management System | Hệ thống Quản lý Chăm sóc Điều dưỡng |
+| 63 | ICU Patient Monitoring System | Hệ thống Theo dõi Bệnh nhân ICU |
+| 64 | Mental Health Management System | Hệ thống Quản lý Sức khỏe Tâm thần |
+| 65 | Vaccination Management System | Hệ thống Quản lý Tiêm chủng |
+| 66 | Medical Staff Scheduling System | Hệ thống Lập lịch Nhân viên Y tế |
+| 67 | Organ Donation & Transplant Registry | Hệ thống Đăng ký Hiến & Ghép tạng |
+| 68 | Dental Clinic Management System | Hệ thống Quản lý Phòng khám Nha khoa |
+| 69 | Ophthalmology Clinic Management System | Hệ thống Quản lý Phòng khám Nhãn khoa |
+| 70 | Home Healthcare Management System | Hệ thống Quản lý Chăm sóc Sức khỏe Tại nhà |
+| 71 | Drug Adverse Reaction Reporting System | Hệ thống Báo cáo Phản ứng Thuốc bất lợi |
+| 72 | Clinical Trial Management System | Hệ thống Quản lý Thử nghiệm Lâm sàng |
+| 73 | Emergency Response Management System | Hệ thống Quản lý Ứng phó Cấp cứu |
+| 74 | Health Insurance Claim System | Hệ thống Bồi thường Bảo hiểm Sức khỏe |
+| 75 | Maternal & Child Health Management System | Hệ thống Quản lý Sức khỏe Mẹ & Trẻ em |
+| 76 | Diet & Nutrition Management System | Hệ thống Quản lý Dinh dưỡng & Chế độ ăn |
+| 77 | Medical Equipment Maintenance System | Hệ thống Bảo trì Thiết bị Y tế |
+| 78 | Outpatient Management System | Hệ thống Quản lý Bệnh nhân Ngoại trú |
+| 79 | Inpatient Management System | Hệ thống Quản lý Bệnh nhân Nội trú |
+| 80 | Palliative Care Management System | Hệ thống Quản lý Chăm sóc Giảm nhẹ |
+| 81 | Physiotherapy Management System | Hệ thống Quản lý Vật lý trị liệu |
+| 82 | Surgical Scheduling System | Hệ thống Lập lịch Phẫu thuật |
+| 83 | Disease Surveillance System | Hệ thống Giám sát Dịch bệnh |
+| 84 | Community Health Center Management System | Hệ thống Quản lý Trạm Y tế Cộng đồng |
+| 85 | Patient Queue Management System | Hệ thống Quản lý Hàng đợi Bệnh nhân |
+| 86 | Medical Waste Management System | Hệ thống Quản lý Chất thải Y tế |
+| 87 | Rehabilitation Center Management System | Hệ thống Quản lý Trung tâm Phục hồi chức năng |
+| 88 | Genomics & Biobank Management System | Hệ thống Quản lý Dữ liệu Gen & Ngân hàng Sinh học |
+| 89 | Epidemic Contact Tracing System | Hệ thống Truy vết Tiếp xúc Dịch bệnh |
+| 90 | Health Wearable Data Management System | Hệ thống Quản lý Dữ liệu Thiết bị Đeo sức khỏe |
+| 91 | Medical Doctor Credential Verification System | Hệ thống Xác minh Chứng chỉ Bác sĩ |
+| 92 | Fertility Clinic Management System | Hệ thống Quản lý Phòng khám Hỗ trợ sinh sản |
+| 93 | Dermatology Clinic Management System | Hệ thống Quản lý Phòng khám Da liễu |
+| 94 | Ambulance Dispatch System | Hệ thống Điều phối Xe cấp cứu |
+| 95 | Oncology Patient Management System | Hệ thống Quản lý Bệnh nhân Ung thư |
+| 96 | Pediatric Care Management System | Hệ thống Quản lý Chăm sóc Nhi khoa |
+| 97 | Medical Research Collaboration Platform | Nền tảng Hợp tác Nghiên cứu Y khoa |
+| 98 | Remote Patient Monitoring System | Hệ thống Theo dõi Bệnh nhân từ xa |
+| 99 | Health Risk Assessment System | Hệ thống Đánh giá Rủi ro Sức khỏe |
+| 100 | AI-Assisted Diagnosis Support System | Hệ thống Hỗ trợ Chẩn đoán bằng AI |
+| 101 | Veterinary Clinic Management System | Hệ thống Quản lý Phòng khám Thú y |
+| 102 | Elderly Care Management System | Hệ thống Quản lý Chăm sóc Người cao tuổi |
+| 103 | Mobile Health (mHealth) Application System | Hệ thống Ứng dụng Sức khỏe Di động |
+| 104 | Hospital Bed Management System | Hệ thống Quản lý Giường bệnh |
+| 105 | Medical Supply Chain Management System | Hệ thống Quản lý Chuỗi cung ứng Vật tư Y tế |
+| 106 | Pathology Lab Information System | Hệ thống Thông tin Phòng Giải phẫu Bệnh |
+| 107 | Post-Operative Care Management System | Hệ thống Quản lý Chăm sóc Hậu phẫu |
+| 108 | Hearing & Speech Therapy Management System | Hệ thống Quản lý Trị liệu Nghe & Nói |
+| 109 | Cardiology Monitoring System | Hệ thống Theo dõi Tim mạch |
+| 110 | Infectious Disease Management System | Hệ thống Quản lý Bệnh truyền nhiễm |
+| 111 | Chronic Disease Management System | Hệ thống Quản lý Bệnh mãn tính |
+| 112 | Diagnostic Imaging Archive System | Hệ thống Lưu trữ Hình ảnh Chẩn đoán |
+| 113 | Drug Dispensing Automation System | Hệ thống Tự động Phân phát Thuốc |
+| 114 | Hospital Accreditation Management System | Hệ thống Quản lý Kiểm định Bệnh viện |
+| 115 | Public Health Monitoring Dashboard | Hệ thống Bảng điều khiển Giám sát Y tế Công cộng |
+| 116 | Patient Feedback & Complaint System | Hệ thống Phản hồi & Khiếu nại Bệnh nhân |
+| 117 | Medical Tourism Management System | Hệ thống Quản lý Du lịch Y tế |
+| 118 | Nutrition Supplement Management System | Hệ thống Quản lý Thực phẩm Bổ sung Dinh dưỡng |
+| 119 | Healthcare Worker Safety System | Hệ thống An toàn Nhân viên Y tế |
+| 120 | Post-COVID Recovery Tracking System | Hệ thống Theo dõi Phục hồi Hậu COVID |
+
+---
+
+## 💰 DOMAIN 3: Finance & Banking | Tài chính & Ngân hàng (121–190)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 121 | Core Banking System | Hệ thống Ngân hàng Lõi |
+| 122 | Internet Banking System | Hệ thống Ngân hàng Trực tuyến |
+| 123 | Mobile Banking Application | Ứng dụng Ngân hàng Di động |
+| 124 | ATM Network Management System | Hệ thống Quản lý Mạng lưới ATM |
+| 125 | Loan Management System | Hệ thống Quản lý Khoản vay |
+| 126 | Credit Card Management System | Hệ thống Quản lý Thẻ tín dụng |
+| 127 | Payment Gateway System | Hệ thống Cổng Thanh toán |
+| 128 | Fund Transfer & Remittance System | Hệ thống Chuyển tiền & Kiều hối |
+| 129 | Anti-Money Laundering (AML) System | Hệ thống Chống Rửa tiền |
+| 130 | Know Your Customer (KYC) System | Hệ thống Xác minh Danh tính Khách hàng (KYC) |
+| 131 | Investment Portfolio Management System | Hệ thống Quản lý Danh mục Đầu tư |
+| 132 | Stock Trading Platform | Nền tảng Giao dịch Chứng khoán |
+| 133 | Forex Trading System | Hệ thống Giao dịch Ngoại hối |
+| 134 | Risk Management System (Banking) | Hệ thống Quản lý Rủi ro Ngân hàng |
+| 135 | Financial Reporting System | Hệ thống Báo cáo Tài chính |
+| 136 | Digital Wallet System | Hệ thống Ví Điện tử |
+| 137 | Microfinance Management System | Hệ thống Quản lý Tài chính Vi mô |
+| 138 | Trade Finance System | Hệ thống Tài trợ Thương mại |
+| 139 | Treasury Management System | Hệ thống Quản lý Ngân quỹ |
+| 140 | Compliance & Regulatory Reporting System | Hệ thống Tuân thủ & Báo cáo Pháp lý |
+| 141 | Personal Finance Management App | Ứng dụng Quản lý Tài chính Cá nhân |
+| 142 | Corporate Budget Management System | Hệ thống Quản lý Ngân sách Doanh nghiệp |
+| 143 | Accounts Payable Management System | Hệ thống Quản lý Khoản phải trả |
+| 144 | Accounts Receivable Management System | Hệ thống Quản lý Khoản phải thu |
+| 145 | General Ledger System | Hệ thống Sổ Cái tổng hợp |
+| 146 | Tax Management System | Hệ thống Quản lý Thuế |
+| 147 | Cryptocurrency Exchange Platform | Nền tảng Giao dịch Tiền mã hóa |
+| 148 | Blockchain-based Payment System | Hệ thống Thanh toán Blockchain |
+| 149 | Credit Scoring System | Hệ thống Chấm điểm Tín dụng |
+| 150 | Fraud Detection System | Hệ thống Phát hiện Gian lận |
+| 151 | Savings & Deposit Management System | Hệ thống Quản lý Tiết kiệm & Tiền gửi |
+| 152 | Pension Fund Management System | Hệ thống Quản lý Quỹ Hưu trí |
+| 153 | Fixed Asset Management System | Hệ thống Quản lý Tài sản Cố định |
+| 154 | Financial Audit System | Hệ thống Kiểm toán Tài chính |
+| 155 | Bancassurance System | Hệ thống Ngân hàng - Bảo hiểm |
+| 156 | Open Banking API Platform | Nền tảng API Ngân hàng Mở |
+| 157 | Crowdfunding Platform | Nền tảng Gọi vốn Cộng đồng |
+| 158 | Peer-to-Peer Lending System | Hệ thống Cho vay Ngang hàng (P2P) |
+| 159 | Financial Planning & Advisory System | Hệ thống Lập kế hoạch & Tư vấn Tài chính |
+| 160 | Invoice Management System | Hệ thống Quản lý Hóa đơn |
+| 161 | Payroll Processing System | Hệ thống Xử lý Bảng lương |
+| 162 | Expense Management System | Hệ thống Quản lý Chi phí |
+| 163 | Leasing Management System | Hệ thống Quản lý Cho thuê Tài chính |
+| 164 | Factoring & Receivables Financing System | Hệ thống Bao thanh toán |
+| 165 | Mortgage Management System | Hệ thống Quản lý Thế chấp |
+| 166 | Capital Market Surveillance System | Hệ thống Giám sát Thị trường Vốn |
+| 167 | Banking CRM System | Hệ thống Quản lý Quan hệ Khách hàng Ngân hàng |
+| 168 | Interbank Settlement System | Hệ thống Thanh toán Liên Ngân hàng |
+| 169 | Automated Clearing House (ACH) System | Hệ thống Thanh toán Bù trừ Tự động |
+| 170 | Point of Sale (POS) System | Hệ thống Bán hàng Tại quầy (POS) |
+| 171 | SME Financing Platform | Nền tảng Tài chính cho Doanh nghiệp Vừa & Nhỏ |
+| 172 | International Trade Settlement System | Hệ thống Thanh toán Thương mại Quốc tế |
+| 173 | Debt Collection Management System | Hệ thống Quản lý Thu hồi Nợ |
+| 174 | Financial Inclusion Platform | Nền tảng Tài chính Toàn diện |
+| 175 | Green Finance Management System | Hệ thống Quản lý Tài chính Xanh |
+| 176 | Insurance Premium Collection System | Hệ thống Thu phí Bảo hiểm |
+| 177 | Bond Issuance Management System | Hệ thống Quản lý Phát hành Trái phiếu |
+| 178 | Financial Dashboard & Analytics Platform | Nền tảng Phân tích & Bảng điều khiển Tài chính |
+| 179 | Robo-Advisor Investment System | Hệ thống Đầu tư Robo-Advisor |
+| 180 | Currency Exchange Management System | Hệ thống Quản lý Đổi ngoại tệ |
+| 181 | Central Bank Digital Currency (CBDC) System | Hệ thống Tiền tệ Kỹ thuật số Ngân hàng Trung ương |
+| 182 | Collateral Management System | Hệ thống Quản lý Tài sản Đảm bảo |
+| 183 | Financial Stress Testing System | Hệ thống Kiểm tra Sức chịu đựng Tài chính |
+| 184 | Transaction Monitoring System | Hệ thống Giám sát Giao dịch |
+| 185 | Capital Allocation & Planning System | Hệ thống Phân bổ & Lập kế hoạch Vốn |
+| 186 | Financial Document Management System | Hệ thống Quản lý Tài liệu Tài chính |
+| 187 | Stock Brokerage Back-Office System | Hệ thống Hậu văn phòng Công ty Chứng khoán |
+| 188 | Derivatives Trading System | Hệ thống Giao dịch Công cụ Phái sinh |
+| 189 | Credit Bureau System | Hệ thống Thông tin Tín dụng Quốc gia |
+| 190 | FinTech Sandbox Management System | Hệ thống Quản lý Sandbox Fintech |
+
+---
+
+## 🛒 DOMAIN 4: E-Commerce & Retail | Thương mại Điện tử & Bán lẻ (191–240)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 191 | E-Commerce Platform | Nền tảng Thương mại Điện tử |
+| 192 | Online Shopping Cart System | Hệ thống Giỏ hàng Trực tuyến |
+| 193 | Product Catalog Management System | Hệ thống Quản lý Danh mục Sản phẩm |
+| 194 | Order Management System (Retail) | Hệ thống Quản lý Đơn hàng Bán lẻ |
+| 195 | Customer Loyalty & Reward System | Hệ thống Khách hàng Thân thiết & Điểm thưởng |
+| 196 | Inventory Management System (Retail) | Hệ thống Quản lý Tồn kho Bán lẻ |
+| 197 | Dropshipping Management System | Hệ thống Quản lý Dropshipping |
+| 198 | Flash Sale & Promotion Management System | Hệ thống Quản lý Flash Sale & Khuyến mãi |
+| 199 | Multi-vendor Marketplace Platform | Nền tảng Chợ Đa nhà cung cấp |
+| 200 | Product Review & Rating System | Hệ thống Đánh giá & Xếp hạng Sản phẩm |
+| 201 | Price Comparison System | Hệ thống So sánh Giá |
+| 202 | Retail Analytics & Business Intelligence System | Hệ thống Phân tích & Tình báo Kinh doanh Bán lẻ |
+| 203 | Fashion E-Commerce System | Hệ thống Thương mại Điện tử Thời trang |
+| 204 | Grocery Delivery Management System | Hệ thống Quản lý Giao hàng Thực phẩm |
+| 205 | Electronics Retail Management System | Hệ thống Quản lý Bán lẻ Điện tử |
+| 206 | Return & Refund Management System | Hệ thống Quản lý Đổi trả & Hoàn tiền |
+| 207 | Wish List & Saved Items System | Hệ thống Danh sách Yêu thích |
+| 208 | Affiliate Marketing Management System | Hệ thống Quản lý Tiếp thị Liên kết |
+| 209 | Subscription Box Management System | Hệ thống Quản lý Hộp Đăng ký |
+| 210 | B2B E-Procurement System | Hệ thống Mua sắm Điện tử B2B |
+| 211 | Auction & Bidding Platform | Nền tảng Đấu giá Trực tuyến |
+| 212 | Gift Card & Voucher Management System | Hệ thống Quản lý Thẻ quà tặng & Voucher |
+| 213 | Omnichannel Retail Management System | Hệ thống Quản lý Bán lẻ Đa kênh |
+| 214 | Chatbot-powered Customer Support System | Hệ thống Hỗ trợ Khách hàng bằng Chatbot |
+| 215 | Personalized Recommendation Engine | Hệ thống Gợi ý Cá nhân hóa |
+| 216 | Secondhand Goods Trading Platform | Nền tảng Mua bán Hàng đã qua sử dụng |
+| 217 | Digital Goods & Software Sales System | Hệ thống Bán Hàng Số & Phần mềm |
+| 218 | Marketplace Seller Management System | Hệ thống Quản lý Người bán Marketplace |
+| 219 | Live Stream Shopping System | Hệ thống Mua sắm Livestream |
+| 220 | Luxury Goods Authentication System | Hệ thống Xác thực Hàng hóa Cao cấp |
+| 221 | Social Commerce Platform | Nền tảng Thương mại Xã hội |
+| 222 | Buy Now Pay Later (BNPL) System | Hệ thống Mua trước Trả sau |
+| 223 | Wholesale Distribution Management System | Hệ thống Quản lý Phân phối Bán buôn |
+| 224 | Retail Store Operations Management System | Hệ thống Quản lý Vận hành Cửa hàng Bán lẻ |
+| 225 | Smart Shelf & IoT Inventory System | Hệ thống Kệ hàng Thông minh & IoT Tồn kho |
+| 226 | Cross-Border E-Commerce System | Hệ thống Thương mại Điện tử Xuyên biên giới |
+| 227 | Coupon & Discount Management System | Hệ thống Quản lý Phiếu giảm giá |
+| 228 | Marketplace Fraud Prevention System | Hệ thống Phòng chống Gian lận Marketplace |
+| 229 | Group Buying Platform | Nền tảng Mua hàng Theo nhóm |
+| 230 | Product Comparison & Decision Tool | Công cụ So sánh & Quyết định Sản phẩm |
+| 231 | Retail Customer Data Platform (CDP) | Nền tảng Dữ liệu Khách hàng Bán lẻ |
+| 232 | Cashierless Checkout System | Hệ thống Thanh toán Không cần Thu ngân |
+| 233 | Supermarket Chain Management System | Hệ thống Quản lý Chuỗi Siêu thị |
+| 234 | Convenience Store Management System | Hệ thống Quản lý Cửa hàng Tiện lợi |
+| 235 | Duty-Free Shop Management System | Hệ thống Quản lý Cửa hàng Miễn thuế |
+| 236 | Furniture & Home Decor E-Commerce System | Hệ thống Thương mại Điện tử Nội thất |
+| 237 | Sports & Outdoor Equipment Retail System | Hệ thống Bán lẻ Thiết bị Thể thao & Ngoài trời |
+| 238 | Pet Supply E-Commerce System | Hệ thống Thương mại Điện tử Thú cưng |
+| 239 | Beauty & Cosmetics E-Commerce System | Hệ thống Thương mại Điện tử Làm đẹp |
+| 240 | Artisan & Handicraft Marketplace | Nền tảng Chợ Hàng thủ công mỹ nghệ |
+
+---
+
+## 🍽️ DOMAIN 5: Food & Restaurant | Ẩm thực & Nhà hàng (241–280)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 241 | Restaurant Management System | Hệ thống Quản lý Nhà hàng |
+| 242 | Food Ordering & Delivery System | Hệ thống Đặt món & Giao hàng Thực phẩm |
+| 243 | Table Reservation System | Hệ thống Đặt bàn |
+| 244 | Kitchen Order Management System | Hệ thống Quản lý Đơn hàng Nhà bếp |
+| 245 | Menu Management System | Hệ thống Quản lý Thực đơn |
+| 246 | Food Delivery Aggregator Platform | Nền tảng Tổng hợp Giao hàng Thực phẩm |
+| 247 | Coffee Shop Management System | Hệ thống Quản lý Cửa hàng Cà phê |
+| 248 | Fast Food Chain Management System | Hệ thống Quản lý Chuỗi Thức ăn Nhanh |
+| 249 | Catering Service Management System | Hệ thống Quản lý Dịch vụ Tiệc & Ngoại cỗ |
+| 250 | Cloud Kitchen Management System | Hệ thống Quản lý Bếp Ảo (Cloud Kitchen) |
+| 251 | Recipe & Ingredient Management System | Hệ thống Quản lý Công thức & Nguyên liệu |
+| 252 | Food Safety & Hygiene Management System | Hệ thống Quản lý An toàn & Vệ sinh Thực phẩm |
+| 253 | Restaurant Loyalty Program System | Hệ thống Chương trình Khách hàng Thân thiết Nhà hàng |
+| 254 | Bar & Beverage Management System | Hệ thống Quản lý Quầy bar & Đồ uống |
+| 255 | Food Franchise Management System | Hệ thống Quản lý Nhượng quyền Thực phẩm |
+| 256 | Meal Kit Subscription System | Hệ thống Đăng ký Bộ nguyên liệu Nấu ăn |
+| 257 | Bakery Management System | Hệ thống Quản lý Tiệm Bánh |
+| 258 | Buffet Restaurant Management System | Hệ thống Quản lý Nhà hàng Buffet |
+| 259 | Food Court Management System | Hệ thống Quản lý Khu ẩm thực |
+| 260 | Food Truck Management System | Hệ thống Quản lý Xe bán thức ăn |
+| 261 | Staff Tip & Gratuity Management System | Hệ thống Quản lý Tiền Tip Nhân viên |
+| 262 | Restaurant Review & Rating Platform | Nền tảng Đánh giá & Xếp hạng Nhà hàng |
+| 263 | Dietary Restriction & Allergen Tracking System | Hệ thống Theo dõi Dị ứng & Hạn chế Ăn uống |
+| 264 | Food Supplier Management System | Hệ thống Quản lý Nhà cung cấp Thực phẩm |
+| 265 | School Canteen Ordering System | Hệ thống Đặt món Căng tin Trường học |
+| 266 | Corporate Cafeteria Management System | Hệ thống Quản lý Căng tin Doanh nghiệp |
+| 267 | Smart Vending Machine Management System | Hệ thống Quản lý Máy bán hàng Tự động Thông minh |
+| 268 | Online Cooking Class Platform | Nền tảng Lớp học Nấu ăn Trực tuyến |
+| 269 | Food Waste Management System | Hệ thống Quản lý Chất thải Thực phẩm |
+| 270 | Halal & Kosher Certification Management System | Hệ thống Quản lý Chứng nhận Thực phẩm Halal & Kosher |
+| 271 | Grocery Store Inventory System | Hệ thống Tồn kho Cửa hàng Tạp hóa |
+| 272 | Wine & Spirits Management System | Hệ thống Quản lý Rượu & Đồ uống có cồn |
+| 273 | Organic Food Marketplace | Nền tảng Chợ Thực phẩm Hữu cơ |
+| 274 | Food Donation & Charity Distribution System | Hệ thống Quyên góp & Phân phối Thực phẩm từ thiện |
+| 275 | Pop-up Restaurant Booking System | Hệ thống Đặt chỗ Nhà hàng Pop-up |
+| 276 | Food Nutrition Label Generation System | Hệ thống Sinh nhãn Dinh dưỡng Thực phẩm |
+| 277 | Dark Kitchen Order Aggregation System | Hệ thống Tổng hợp Đơn hàng Bếp Tối |
+| 278 | Restaurant Staff Scheduling System | Hệ thống Lập lịch Nhân viên Nhà hàng |
+| 279 | Food Export & Import Compliance System | Hệ thống Tuân thủ Xuất nhập khẩu Thực phẩm |
+| 280 | Kiosk Ordering System | Hệ thống Đặt hàng Kiosk Tự phục vụ |
+
+---
+
+## 🚚 DOMAIN 6: Transportation & Logistics | Vận tải & Logistics (281–340)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 281 | Fleet Management System | Hệ thống Quản lý Đội phương tiện |
+| 282 | Ride-Hailing Platform | Nền tảng Gọi xe |
+| 283 | Freight Management System | Hệ thống Quản lý Vận tải Hàng hóa |
+| 284 | Warehouse Management System | Hệ thống Quản lý Kho hàng |
+| 285 | Last-Mile Delivery Management System | Hệ thống Quản lý Giao hàng Chặng cuối |
+| 286 | Supply Chain Management System | Hệ thống Quản lý Chuỗi cung ứng |
+| 287 | Route Optimization System | Hệ thống Tối ưu hóa Lộ trình |
+| 288 | Parcel Tracking System | Hệ thống Theo dõi Bưu kiện |
+| 289 | Container Terminal Management System | Hệ thống Quản lý Cảng Container |
+| 290 | Cargo Booking System | Hệ thống Đặt chỗ Hàng hóa |
+| 291 | Cold Chain Logistics System | Hệ thống Logistics Chuỗi lạnh |
+| 292 | Public Bus Management System | Hệ thống Quản lý Xe buýt Công cộng |
+| 293 | Taxi Dispatch System | Hệ thống Điều phối Taxi |
+| 294 | Bicycle Sharing System | Hệ thống Xe đạp Chia sẻ |
+| 295 | Electric Scooter Sharing System | Hệ thống Xe điện Chia sẻ |
+| 296 | Toll Management System | Hệ thống Quản lý Thu phí Đường bộ |
+| 297 | Vehicle Registration & Licensing System | Hệ thống Đăng ký & Cấp phép Phương tiện |
+| 298 | Traffic Management System | Hệ thống Quản lý Giao thông |
+| 299 | Intelligent Transportation System (ITS) | Hệ thống Giao thông Thông minh |
+| 300 | Drone Delivery Management System | Hệ thống Quản lý Giao hàng Bằng Drone |
+| 301 | Customs & Border Control System | Hệ thống Hải quan & Kiểm soát Biên giới |
+| 302 | Shipment Booking Platform | Nền tảng Đặt chỗ Vận chuyển |
+| 303 | Logistics Partner Integration System | Hệ thống Tích hợp Đối tác Logistics |
+| 304 | Reverse Logistics Management System | Hệ thống Quản lý Logistics Ngược |
+| 305 | Fuel Management System | Hệ thống Quản lý Nhiên liệu |
+| 306 | Driver Management & Compliance System | Hệ thống Quản lý Tài xế & Tuân thủ |
+| 307 | Freight Brokerage Platform | Nền tảng Môi giới Vận tải |
+| 308 | Postal & Mail Management System | Hệ thống Quản lý Bưu chính |
+| 309 | Vehicle Maintenance Management System | Hệ thống Quản lý Bảo trì Phương tiện |
+| 310 | Cross-Docking Management System | Hệ thống Quản lý Cross-Docking |
+| 311 | Autonomous Vehicle Fleet System | Hệ thống Đội xe Tự lái |
+| 312 | Rail Freight Management System | Hệ thống Quản lý Vận tải Đường sắt |
+| 313 | Air Cargo Management System | Hệ thống Quản lý Vận tải Hàng không |
+| 314 | Port & Terminal Operations System | Hệ thống Vận hành Cảng & Bến |
+| 315 | Vehicle Inspection Management System | Hệ thống Quản lý Kiểm định Phương tiện |
+| 316 | Ride-Pooling & Carpooling Platform | Nền tảng Đi chung xe |
+| 317 | Last-Mile Locker System | Hệ thống Tủ khóa Giao hàng Chặng cuối |
+| 318 | Intermodal Transport Management System | Hệ thống Quản lý Vận tải Đa phương thức |
+| 319 | Dangerous Goods Transport Management System | Hệ thống Quản lý Vận chuyển Hàng Nguy hiểm |
+| 320 | Transport Booking Aggregator | Nền tảng Tổng hợp Đặt vé Vận tải |
+| 321 | Smart Parking Management System | Hệ thống Quản lý Đỗ xe Thông minh |
+| 322 | Logistics Analytics Platform | Nền tảng Phân tích Logistics |
+| 323 | Delivery Partner App System | Hệ thống Ứng dụng Đối tác Giao hàng |
+| 324 | Vehicle Leasing Management System | Hệ thống Quản lý Cho thuê Phương tiện |
+| 325 | Moving & Relocation Service System | Hệ thống Dịch vụ Chuyển nhà |
+| 326 | Cargo Insurance Management System | Hệ thống Quản lý Bảo hiểm Hàng hóa |
+| 327 | GPS Asset Tracking System | Hệ thống Theo dõi Tài sản GPS |
+| 328 | Logistics ERP System | Hệ thống ERP Logistics |
+| 329 | Sustainable Logistics Management System | Hệ thống Quản lý Logistics Bền vững |
+| 330 | Urban Micro-Mobility System | Hệ thống Di chuyển Siêu nhỏ Đô thị |
+| 331 | International Freight Forwarding System | Hệ thống Giao nhận Vận tải Quốc tế |
+| 332 | Shipyard Management System | Hệ thống Quản lý Xưởng Đóng tàu |
+| 333 | Real-time Visibility & Tracking Platform | Nền tảng Theo dõi & Hiển thị Thời gian thực |
+| 334 | Hazardous Material Tracking System | Hệ thống Theo dõi Vật liệu Nguy hiểm |
+| 335 | Truck Load Optimization System | Hệ thống Tối ưu Tải trọng Xe tải |
+| 336 | Returns & Exchange Logistics System | Hệ thống Logistics Đổi trả Hàng |
+| 337 | Transport Cost Calculation System | Hệ thống Tính phí Vận chuyển |
+| 338 | Crowdsourced Delivery Platform | Nền tảng Giao hàng Cộng đồng |
+| 339 | Traffic Incident Reporting System | Hệ thống Báo cáo Tai nạn Giao thông |
+| 340 | Multi-Modal Journey Planner | Hệ thống Lập kế hoạch Hành trình Đa phương thức |
+
+---
+
+## 👔 DOMAIN 7: Human Resources & Payroll | Nhân sự & Bảng lương (341–390)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 341 | Human Resource Management System (HRMS) | Hệ thống Quản lý Nhân sự (HRMS) |
+| 342 | Recruitment & Applicant Tracking System | Hệ thống Tuyển dụng & Theo dõi Ứng viên |
+| 343 | Employee Onboarding System | Hệ thống Giới thiệu Nhân viên mới |
+| 344 | Payroll Management System | Hệ thống Quản lý Bảng lương |
+| 345 | Performance Appraisal System | Hệ thống Đánh giá Hiệu suất Nhân viên |
+| 346 | Leave & Absence Management System | Hệ thống Quản lý Nghỉ phép |
+| 347 | Time & Attendance Management System | Hệ thống Quản lý Chấm công & Giờ làm |
+| 348 | Employee Self-Service Portal | Cổng Tự phục vụ Nhân viên |
+| 349 | Training & Development Management System | Hệ thống Quản lý Đào tạo & Phát triển |
+| 350 | Succession Planning System | Hệ thống Lập kế hoạch Kế thừa |
+| 351 | Employee Benefits Management System | Hệ thống Quản lý Phúc lợi Nhân viên |
+| 352 | Organizational Chart Management System | Hệ thống Quản lý Sơ đồ Tổ chức |
+| 353 | Job Description & Grading System | Hệ thống Mô tả & Phân loại Công việc |
+| 354 | Compliance & Labor Law Management System | Hệ thống Quản lý Tuân thủ Luật Lao động |
+| 355 | Remote Work Management System | Hệ thống Quản lý Làm việc Từ xa |
+| 356 | Workforce Planning System | Hệ thống Lập kế hoạch Lực lượng Lao động |
+| 357 | Employee Exit Management System | Hệ thống Quản lý Nghỉ việc Nhân viên |
+| 358 | HR Analytics & Reporting System | Hệ thống Phân tích & Báo cáo Nhân sự |
+| 359 | Corporate Culture & Engagement Platform | Nền tảng Văn hóa Doanh nghiệp & Gắn kết Nhân viên |
+| 360 | Expense Reimbursement System | Hệ thống Hoàn trả Chi phí |
+| 361 | Employee Referral Program System | Hệ thống Chương trình Giới thiệu Nhân viên |
+| 362 | Disciplinary Action Management System | Hệ thống Quản lý Kỷ luật Nhân viên |
+| 363 | Health & Safety Incident Reporting System | Hệ thống Báo cáo Sự cố An toàn & Sức khỏe |
+| 364 | Compensation Benchmarking System | Hệ thống So sánh Mức lương Thị trường |
+| 365 | Social Insurance & SHUI Management System | Hệ thống Quản lý Bảo hiểm Xã hội (BHXH/BHYT/BHTN) |
+| 366 | Talent Management System | Hệ thống Quản lý Tài năng |
+| 367 | Executive Compensation Management System | Hệ thống Quản lý Thù lao Ban lãnh đạo |
+| 368 | Job Portal & Career Site System | Hệ thống Cổng Việc làm & Trang Tuyển dụng |
+| 369 | Contractor & Freelancer Management System | Hệ thống Quản lý Nhà thầu & Freelancer |
+| 370 | Diversity & Inclusion Tracking System | Hệ thống Theo dõi Đa dạng & Hòa nhập |
+| 371 | Employee Recognition & Awards System | Hệ thống Ghi nhận & Khen thưởng Nhân viên |
+| 372 | Internal Mobility & Transfer System | Hệ thống Luân chuyển & Thuyên chuyển Nội bộ |
+| 373 | HR Helpdesk & Ticketing System | Hệ thống Hỗ trợ & Yêu cầu HR |
+| 374 | Shift Planning & Roster System | Hệ thống Lập kế hoạch Ca làm & Roster |
+| 375 | Graduate Trainee Management System | Hệ thống Quản lý Nhân viên Tập sự Mới tốt nghiệp |
+| 376 | Gig Economy Worker Management System | Hệ thống Quản lý Lao động Kinh tế Gig |
+| 377 | Background Check & Screening System | Hệ thống Kiểm tra Lý lịch Ứng viên |
+| 378 | Employee Communication Platform | Nền tảng Giao tiếp Nội bộ Nhân viên |
+| 379 | Workplace Safety Training System | Hệ thống Đào tạo An toàn Nơi làm việc |
+| 380 | HR Chatbot & Virtual Assistant System | Hệ thống Chatbot & Trợ lý Ảo HR |
+| 381 | Vendor & Agency Management (HR) System | Hệ thống Quản lý Nhà cung ứng Lao động |
+| 382 | Probation Period Management System | Hệ thống Quản lý Thời gian Thử việc |
+| 383 | International Assignment Management System | Hệ thống Quản lý Cử nhân viên Làm việc Nước ngoài |
+| 384 | HR Document Management System | Hệ thống Quản lý Tài liệu Nhân sự |
+| 385 | Sick Leave & Medical Certificate System | Hệ thống Quản lý Nghỉ ốm & Giấy chứng nhận Y tế |
+| 386 | Bonus & Incentive Management System | Hệ thống Quản lý Thưởng & Ưu đãi |
+| 387 | Employee Wellness Program System | Hệ thống Chương trình Sức khỏe Nhân viên |
+| 388 | Headcount Planning System | Hệ thống Lập kế hoạch Đầu người |
+| 389 | HR Audit & Compliance System | Hệ thống Kiểm toán & Tuân thủ Nhân sự |
+| 390 | Skills Inventory & Competency Management System | Hệ thống Quản lý Kho Kỹ năng & Năng lực |
+
+---
+
+## 🏘️ DOMAIN 8: Real Estate & Property | Bất động sản (391–430)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 391 | Real Estate Listing & Search Platform | Nền tảng Đăng & Tìm kiếm Bất động sản |
+| 392 | Property Management System | Hệ thống Quản lý Tài sản |
+| 393 | Real Estate CRM System | Hệ thống Quản lý Quan hệ Khách hàng Bất động sản |
+| 394 | Construction Project Management System | Hệ thống Quản lý Dự án Xây dựng |
+| 395 | Apartment Rental Management System | Hệ thống Quản lý Cho thuê Căn hộ |
+| 396 | Building Maintenance Management System | Hệ thống Quản lý Bảo trì Tòa nhà |
+| 397 | Land Registry & Title Management System | Hệ thống Đăng ký & Quản lý Quyền sử dụng Đất |
+| 398 | Real Estate Investment Analysis System | Hệ thống Phân tích Đầu tư Bất động sản |
+| 399 | Property Valuation System | Hệ thống Định giá Bất động sản |
+| 400 | Smart Building Management System (BMS) | Hệ thống Quản lý Tòa nhà Thông minh |
+| 401 | Facility Management System | Hệ thống Quản lý Cơ sở vật chất |
+| 402 | Commercial Real Estate Management System | Hệ thống Quản lý Bất động sản Thương mại |
+| 403 | Real Estate Agent Commission System | Hệ thống Quản lý Hoa hồng Môi giới Bất động sản |
+| 404 | Homeowner Association (HOA) Management System | Hệ thống Quản lý Hội đồng Chủ sở hữu Nhà |
+| 405 | Short-Term Rental Platform (Airbnb-style) | Nền tảng Cho thuê Ngắn hạn |
+| 406 | Real Estate Auction Platform | Nền tảng Đấu giá Bất động sản |
+| 407 | Lease Agreement Management System | Hệ thống Quản lý Hợp đồng Thuê |
+| 408 | Co-working Space Management System | Hệ thống Quản lý Không gian Làm việc Chung |
+| 409 | Energy Efficiency Management System (Buildings) | Hệ thống Quản lý Tiết kiệm Năng lượng Tòa nhà |
+| 410 | Real Estate Document & Contract Management System | Hệ thống Quản lý Hồ sơ & Hợp đồng Bất động sản |
+| 411 | Parking Lot Management System | Hệ thống Quản lý Bãi đỗ xe |
+| 412 | Virtual Property Tour System | Hệ thống Tham quan Bất động sản Ảo |
+| 413 | Tenant & Landlord Communication System | Hệ thống Giao tiếp Người thuê & Chủ nhà |
+| 414 | Mortgage Application & Tracking System | Hệ thống Đăng ký & Theo dõi Vay mua nhà |
+| 415 | Real Estate Market Analytics Platform | Nền tảng Phân tích Thị trường Bất động sản |
+| 416 | Urban Planning & Zoning Management System | Hệ thống Quản lý Quy hoạch Đô thị |
+| 417 | Industrial Property Management System | Hệ thống Quản lý Bất động sản Công nghiệp |
+| 418 | Condominium Management System | Hệ thống Quản lý Chung cư |
+| 419 | Property Tax Assessment System | Hệ thống Đánh giá Thuế Bất động sản |
+| 420 | Real Estate Crowdfunding Platform | Nền tảng Đầu tư Bất động sản Cộng đồng |
+| 421 | Building Inspection & Compliance System | Hệ thống Kiểm tra & Tuân thủ Xây dựng |
+| 422 | Home Renovation & Contractor Matching System | Hệ thống Kết nối Sửa chữa Nhà & Nhà thầu |
+| 423 | Student Housing Management System | Hệ thống Quản lý Nhà ở Sinh viên |
+| 424 | Real Estate Tokenization Platform | Nền tảng Token hóa Bất động sản |
+| 425 | Property Insurance Management System | Hệ thống Quản lý Bảo hiểm Tài sản |
+| 426 | Residential Community Management System | Hệ thống Quản lý Cộng đồng Dân cư |
+| 427 | Real Estate Escrow Management System | Hệ thống Quản lý Ký quỹ Bất động sản |
+| 428 | Green Building Certification System | Hệ thống Chứng nhận Công trình Xanh |
+| 429 | Office Space Booking System | Hệ thống Đặt không gian Văn phòng |
+| 430 | Real Estate ERP System | Hệ thống ERP Bất động sản |
+
+---
+
+## 🏭 DOMAIN 9: Manufacturing & Production | Sản xuất & Công nghiệp (431–475)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 431 | Manufacturing Execution System (MES) | Hệ thống Thực thi Sản xuất (MES) |
+| 432 | Enterprise Resource Planning (ERP) System | Hệ thống Hoạch định Nguồn lực Doanh nghiệp (ERP) |
+| 433 | Quality Control & Assurance System | Hệ thống Kiểm soát & Đảm bảo Chất lượng |
+| 434 | Production Planning & Scheduling System | Hệ thống Lập kế hoạch & Lịch sản xuất |
+| 435 | Bill of Materials (BOM) Management System | Hệ thống Quản lý Bảng kê Nguyên vật liệu |
+| 436 | Equipment Maintenance & Reliability System | Hệ thống Bảo trì & Độ tin cậy Thiết bị |
+| 437 | Material Requirements Planning (MRP) System | Hệ thống Hoạch định Nhu cầu Nguyên liệu |
+| 438 | Lean Manufacturing Management System | Hệ thống Quản lý Sản xuất Tinh gọn |
+| 439 | Industrial IoT Platform | Nền tảng IoT Công nghiệp |
+| 440 | Product Lifecycle Management (PLM) System | Hệ thống Quản lý Vòng đời Sản phẩm |
+| 441 | Energy Consumption Monitoring System | Hệ thống Giám sát Tiêu thụ Năng lượng |
+| 442 | Shop Floor Data Collection System | Hệ thống Thu thập Dữ liệu Phân xưởng |
+| 443 | Statistical Process Control (SPC) System | Hệ thống Kiểm soát Quá trình Thống kê |
+| 444 | Factory Automation Control System | Hệ thống Điều khiển Tự động hóa Nhà máy |
+| 445 | Defect Tracking & Root Cause Analysis System | Hệ thống Theo dõi Lỗi & Phân tích Nguyên nhân Gốc rễ |
+| 446 | Worker Safety & PPE Compliance System | Hệ thống An toàn Công nhân & Tuân thủ PPE |
+| 447 | Product Traceability System | Hệ thống Truy xuất Nguồn gốc Sản phẩm |
+| 448 | Supplier Quality Management System | Hệ thống Quản lý Chất lượng Nhà cung cấp |
+| 449 | Manufacturing Cost Analysis System | Hệ thống Phân tích Chi phí Sản xuất |
+| 450 | Automated Guided Vehicle (AGV) Management System | Hệ thống Quản lý Xe tự lái trong Kho (AGV) |
+| 451 | Batch Production Management System | Hệ thống Quản lý Sản xuất Theo lô |
+| 452 | Continuous Manufacturing System | Hệ thống Sản xuất Liên tục |
+| 453 | Environmental Compliance Monitoring System | Hệ thống Giám sát Tuân thủ Môi trường |
+| 454 | R&D Project Management System (Manufacturing) | Hệ thống Quản lý Dự án R&D Sản xuất |
+| 455 | Machine Learning-based Predictive Maintenance System | Hệ thống Bảo trì Dự đoán bằng ML |
+| 456 | Digital Twin Manufacturing System | Hệ thống Bản sao Kỹ thuật số Sản xuất |
+| 457 | Pharmaceutical Manufacturing Management System | Hệ thống Quản lý Sản xuất Dược phẩm |
+| 458 | Food Processing Plant Management System | Hệ thống Quản lý Nhà máy Chế biến Thực phẩm |
+| 459 | Textile Manufacturing Management System | Hệ thống Quản lý Sản xuất Dệt may |
+| 460 | Electronics Assembly Management System | Hệ thống Quản lý Lắp ráp Điện tử |
+| 461 | Waste Reduction & Recycling Management System | Hệ thống Quản lý Giảm thải & Tái chế |
+| 462 | Production Order Management System | Hệ thống Quản lý Lệnh Sản xuất |
+| 463 | Outsourced Manufacturing Management System | Hệ thống Quản lý Sản xuất Gia công ngoài |
+| 464 | Spare Parts & MRO Inventory System | Hệ thống Tồn kho Phụ tùng & Vật tư MRO |
+| 465 | ISO & Regulatory Compliance System (Mfg) | Hệ thống Tuân thủ ISO & Pháp lý Sản xuất |
+| 466 | Visual Inspection Automation System | Hệ thống Kiểm tra Hình ảnh Tự động |
+| 467 | Tooling & Die Management System | Hệ thống Quản lý Khuôn Dập & Dụng cụ |
+| 468 | Production Dashboard & KPI System | Hệ thống Bảng điều khiển & KPI Sản xuất |
+| 469 | Casting & Molding Process Management System | Hệ thống Quản lý Quy trình Đúc & Khuôn |
+| 470 | Chemical Manufacturing Safety System | Hệ thống An toàn Sản xuất Hóa chất |
+| 471 | Shipbuilding Project Management System | Hệ thống Quản lý Dự án Đóng tàu |
+| 472 | Semiconductor Manufacturing Execution System | Hệ thống Thực thi Sản xuất Bán dẫn |
+| 473 | Packaging Management System | Hệ thống Quản lý Đóng gói |
+| 474 | Labor Efficiency Tracking System (Mfg) | Hệ thống Theo dõi Hiệu suất Lao động Sản xuất |
+| 475 | Carbon Footprint Tracking System (Manufacturing) | Hệ thống Theo dõi Dấu chân Carbon Sản xuất |
+
+---
+
+## 🏨 DOMAIN 10: Hotel & Hospitality | Khách sạn & Dịch vụ Lưu trú (476–515)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 476 | Hotel Property Management System (PMS) | Hệ thống Quản lý Khách sạn (PMS) |
+| 477 | Hotel Booking & Reservation System | Hệ thống Đặt phòng Khách sạn |
+| 478 | Front Desk Operations System | Hệ thống Vận hành Lễ tân Khách sạn |
+| 479 | Housekeeping Management System | Hệ thống Quản lý Dịch vụ Buồng phòng |
+| 480 | Revenue Management System (Hotel) | Hệ thống Quản lý Doanh thu Khách sạn |
+| 481 | Hotel CRM & Guest Loyalty System | Hệ thống CRM & Khách hàng Thân thiết Khách sạn |
+| 482 | Event & Conference Room Booking System | Hệ thống Đặt phòng Hội nghị & Sự kiện |
+| 483 | Spa & Wellness Center Management System | Hệ thống Quản lý Spa & Trung tâm Sức khỏe |
+| 484 | Hotel Restaurant & F&B Management System | Hệ thống Quản lý Nhà hàng & F&B Khách sạn |
+| 485 | Guest Feedback & Review Management System | Hệ thống Quản lý Phản hồi & Đánh giá Khách hàng |
+| 486 | Online Travel Agency (OTA) Integration System | Hệ thống Tích hợp Đại lý Du lịch Trực tuyến (OTA) |
+| 487 | Hotel Maintenance & Engineering System | Hệ thống Bảo trì & Kỹ thuật Khách sạn |
+| 488 | Mini-Bar & In-Room Service Management System | Hệ thống Quản lý Mini-Bar & Dịch vụ Trong phòng |
+| 489 | Concierge & Guest Service System | Hệ thống Dịch vụ Lễ tân & Hỗ trợ Khách |
+| 490 | Channel Manager System (Hotel) | Hệ thống Quản lý Kênh bán phòng |
+| 491 | Hotel Analytics & Performance Dashboard | Bảng điều khiển Phân tích & Hiệu suất Khách sạn |
+| 492 | Key Card & Access Control System (Hotel) | Hệ thống Thẻ khóa & Kiểm soát Truy cập Khách sạn |
+| 493 | Hostel Management System | Hệ thống Quản lý Nhà nghỉ Tập thể (Hostel) |
+| 494 | Resort & Vacation Package Management System | Hệ thống Quản lý Khu nghỉ dưỡng & Gói Kỳ nghỉ |
+| 495 | Hotel Procurement & Inventory System | Hệ thống Mua sắm & Tồn kho Khách sạn |
+| 496 | Corporate Travel & Rate Agreement System | Hệ thống Quản lý Giá Hợp đồng Khách doanh nghiệp |
+| 497 | Hotel Staff Training Management System | Hệ thống Quản lý Đào tạo Nhân viên Khách sạn |
+| 498 | Night Audit System (Hotel) | Hệ thống Kiểm toán Đêm Khách sạn |
+| 499 | Leisure & Activities Booking System | Hệ thống Đặt dịch vụ Giải trí & Hoạt động |
+| 500 | Boutique Hotel Management System | Hệ thống Quản lý Khách sạn Boutique |
+| 501 | Motel & Budget Accommodation System | Hệ thống Quản lý Nhà nghỉ & Lưu trú Bình dân |
+| 502 | Hotel Group & Chain Management System | Hệ thống Quản lý Tập đoàn & Chuỗi Khách sạn |
+| 503 | Guest Check-in Kiosk System | Hệ thống Kiosk Tự nhận phòng |
+| 504 | Room Service Order Tracking System | Hệ thống Theo dõi Đơn hàng Dịch vụ Phòng |
+| 505 | Hotel Energy Management System | Hệ thống Quản lý Năng lượng Khách sạn |
+| 506 | Lost & Found Management System (Hotel) | Hệ thống Quản lý Đồ thất lạc Khách sạn |
+| 507 | Swimming Pool & Facilities Booking System | Hệ thống Đặt Bể bơi & Tiện ích Khách sạn |
+| 508 | Hotel Sustainability Tracking System | Hệ thống Theo dõi Bền vững Khách sạn |
+| 509 | VIP Guest Management System | Hệ thống Quản lý Khách VIP |
+| 510 | Hotel Franchise Compliance System | Hệ thống Tuân thủ Nhượng quyền Khách sạn |
+| 511 | Vacation Rental Management System | Hệ thống Quản lý Cho thuê Nhà Nghỉ dưỡng |
+| 512 | Hotel Dynamic Pricing System | Hệ thống Định giá Động Khách sạn |
+| 513 | Guest Room Automation System | Hệ thống Tự động hóa Phòng Khách |
+| 514 | Hotel Recruitment & Staffing System | Hệ thống Tuyển dụng & Nhân sự Khách sạn |
+| 515 | Hospitality Training & Certification System | Hệ thống Đào tạo & Chứng chỉ Nhân viên Khách sạn |
+
+---
+
+## 🏛️ DOMAIN 11: Government & Public Services | Chính phủ & Dịch vụ Công (516–565)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 516 | E-Government Portal | Cổng Chính phủ Điện tử |
+| 517 | Citizen Identity Management System | Hệ thống Quản lý Danh tính Công dân |
+| 518 | Public Tax Administration System | Hệ thống Quản lý Thuế Công |
+| 519 | Government Procurement System | Hệ thống Mua sắm Chính phủ |
+| 520 | E-Voting System | Hệ thống Bỏ phiếu Điện tử |
+| 521 | Social Welfare Management System | Hệ thống Quản lý An sinh Xã hội |
+| 522 | Public Safety & Emergency Management System | Hệ thống Quản lý An toàn Công cộng & Khẩn cấp |
+| 523 | Immigration & Visa Management System | Hệ thống Quản lý Nhập cư & Visa |
+| 524 | National ID Card Issuance System | Hệ thống Cấp Thẻ Căn cước Công dân |
+| 525 | Court Case Management System | Hệ thống Quản lý Hồ sơ Tòa án |
+| 526 | Public Transport Payment System | Hệ thống Thanh toán Giao thông Công cộng |
+| 527 | Smart City Platform | Nền tảng Thành phố Thông minh |
+| 528 | Land & Property Registry System | Hệ thống Đăng ký Đất đai & Nhà ở |
+| 529 | Birth, Death & Marriage Registration System | Hệ thống Đăng ký Khai sinh, Tử, Kết hôn |
+| 530 | Public Health Information System | Hệ thống Thông tin Y tế Công cộng |
+| 531 | City Budget & Expenditure Tracking System | Hệ thống Theo dõi Ngân sách & Chi tiêu Thành phố |
+| 532 | Police Crime Reporting System | Hệ thống Báo cáo Tội phạm Cảnh sát |
+| 533 | Fire Department Management System | Hệ thống Quản lý Phòng Cháy Chữa Cháy |
+| 534 | Urban Waste Collection Management System | Hệ thống Quản lý Thu gom Rác Đô thị |
+| 535 | Water Supply & Treatment Management System | Hệ thống Quản lý Cấp nước & Xử lý Nước |
+| 536 | Public Library Management System | Hệ thống Quản lý Thư viện Công cộng |
+| 537 | Business License & Permit System | Hệ thống Cấp phép Kinh doanh |
+| 538 | Municipal Revenue Collection System | Hệ thống Thu ngân sách Đô thị |
+| 539 | Social Housing Management System | Hệ thống Quản lý Nhà ở Xã hội |
+| 540 | Public Pension Management System | Hệ thống Quản lý Hưu trí Công chức |
+| 541 | Government Document Management System | Hệ thống Quản lý Văn bản Hành chính |
+| 542 | Citizen Complaint & Feedback System | Hệ thống Tiếp nhận Khiếu nại & Phản hồi Công dân |
+| 543 | National Statistics Information System | Hệ thống Thông tin Thống kê Quốc gia |
+| 544 | Disaster Relief Management System | Hệ thống Quản lý Cứu trợ Thiên tai |
+| 545 | Election Campaign Finance Tracking System | Hệ thống Theo dõi Tài chính Vận động Bầu cử |
+| 546 | Public Works Project Management System | Hệ thống Quản lý Dự án Công trình Công cộng |
+| 547 | Border Control & Surveillance System | Hệ thống Kiểm soát & Giám sát Biên giới |
+| 548 | Military Personnel Management System | Hệ thống Quản lý Nhân sự Quân đội |
+| 549 | Public School Zoning & Enrollment System | Hệ thống Phân tuyến & Tuyển sinh Trường Công |
+| 550 | Municipal Parking Enforcement System | Hệ thống Xử phạt Đỗ xe Đô thị |
+| 551 | E-Procurement for Government Agencies | Hệ thống Mua sắm Điện tử Cơ quan Nhà nước |
+| 552 | Forestry Management Information System | Hệ thống Thông tin Quản lý Rừng |
+| 553 | Fisheries Management System | Hệ thống Quản lý Thủy sản |
+| 554 | Prison & Correctional Facility System | Hệ thống Quản lý Trại Giam & Cải tạo |
+| 555 | National Healthcare Insurance System | Hệ thống Bảo hiểm Y tế Quốc gia |
+| 556 | Public Utility Billing System | Hệ thống Thanh toán Dịch vụ Tiện ích Công cộng |
+| 557 | Government Audit & Inspection System | Hệ thống Kiểm toán & Thanh tra Nhà nước |
+| 558 | Anti-Corruption Reporting System | Hệ thống Tố cáo Tham nhũng |
+| 559 | National Cyber Security Incident Response System | Hệ thống Ứng phó Sự cố An ninh mạng Quốc gia |
+| 560 | Refugee & Asylum Management System | Hệ thống Quản lý Người tị nạn & Xin tị nạn |
+| 561 | Public Transportation Route Management System | Hệ thống Quản lý Tuyến Giao thông Công cộng |
+| 562 | Government HR Management System | Hệ thống Quản lý Nhân sự Nhà nước |
+| 563 | Citizen Service Center Management System | Hệ thống Quản lý Trung tâm Phục vụ Công dân |
+| 564 | National Food Security Management System | Hệ thống Quản lý An ninh Lương thực Quốc gia |
+| 565 | Government Open Data Platform | Nền tảng Dữ liệu Mở Chính phủ |
+
+---
+
+## 🛡️ DOMAIN 12: Insurance | Bảo hiểm (566–600)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 566 | Life Insurance Management System | Hệ thống Quản lý Bảo hiểm Nhân thọ |
+| 567 | General Insurance Management System | Hệ thống Quản lý Bảo hiểm Phi nhân thọ |
+| 568 | Insurance Policy Administration System | Hệ thống Quản lý Hợp đồng Bảo hiểm |
+| 569 | Claims Processing & Management System | Hệ thống Xử lý & Quản lý Bồi thường Bảo hiểm |
+| 570 | Motor Vehicle Insurance System | Hệ thống Bảo hiểm Xe cơ giới |
+| 571 | Health Insurance Administration System | Hệ thống Quản lý Bảo hiểm Y tế |
+| 572 | Property & Casualty Insurance System | Hệ thống Bảo hiểm Tài sản & Tai nạn |
+| 573 | Reinsurance Management System | Hệ thống Quản lý Tái Bảo hiểm |
+| 574 | Actuarial Analytics System | Hệ thống Phân tích Thống kê Bảo hiểm |
+| 575 | Insurance Agent & Broker Management System | Hệ thống Quản lý Đại lý & Môi giới Bảo hiểm |
+| 576 | Fraud Detection System (Insurance) | Hệ thống Phát hiện Gian lận Bảo hiểm |
+| 577 | Insurance Premium Calculation System | Hệ thống Tính phí Bảo hiểm |
+| 578 | Bancassurance Distribution System | Hệ thống Phân phối Bảo hiểm qua Ngân hàng |
+| 579 | Crop & Agricultural Insurance System | Hệ thống Bảo hiểm Nông nghiệp |
+| 580 | Travel Insurance Management System | Hệ thống Quản lý Bảo hiểm Du lịch |
+| 581 | Cyber Insurance Management System | Hệ thống Quản lý Bảo hiểm An ninh mạng |
+| 582 | Group Insurance Administration System | Hệ thống Quản lý Bảo hiểm Nhóm |
+| 583 | Underwriting Management System | Hệ thống Quản lý Bảo lãnh Bảo hiểm |
+| 584 | Loss Assessment & Survey System | Hệ thống Đánh giá & Giám định Thiệt hại |
+| 585 | Insurance Customer Portal | Cổng Khách hàng Bảo hiểm |
+| 586 | Pet Insurance Management System | Hệ thống Quản lý Bảo hiểm Thú cưng |
+| 587 | Parametric Insurance System | Hệ thống Bảo hiểm Tham số |
+| 588 | Insurance Distribution Platform (InsurTech) | Nền tảng Phân phối Bảo hiểm (InsurTech) |
+| 589 | Liability Insurance Management System | Hệ thống Quản lý Bảo hiểm Trách nhiệm Dân sự |
+| 590 | Insurance Regulatory Reporting System | Hệ thống Báo cáo Pháp lý Bảo hiểm |
+| 591 | Microinsurance Platform | Nền tảng Bảo hiểm Vi mô |
+| 592 | Insurance Agent Commission System | Hệ thống Quản lý Hoa hồng Đại lý Bảo hiểm |
+| 593 | Insurance Document Management System | Hệ thống Quản lý Tài liệu Bảo hiểm |
+| 594 | Telematics-based Insurance System | Hệ thống Bảo hiểm Dựa trên Dữ liệu Thiết bị |
+| 595 | Workers Compensation Management System | Hệ thống Quản lý Bồi thường Tai nạn Lao động |
+| 596 | Insurance Analytics Platform | Nền tảng Phân tích Dữ liệu Bảo hiểm |
+| 597 | Marine Insurance Management System | Hệ thống Quản lý Bảo hiểm Hàng hải |
+| 598 | Aviation Insurance System | Hệ thống Bảo hiểm Hàng không |
+| 599 | Insurance Portfolio Management System | Hệ thống Quản lý Danh mục Bảo hiểm |
+| 600 | No-claims Discount (NCD) Management System | Hệ thống Quản lý Giảm phí Không bồi thường |
+
+---
+
+## 📡 DOMAIN 13: Telecommunications | Viễn thông (601–630)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 601 | Telecom Billing & Revenue Management System | Hệ thống Thanh toán & Quản lý Doanh thu Viễn thông |
+| 602 | Customer Self-Care Portal (Telecom) | Cổng Tự quản lý Khách hàng Viễn thông |
+| 603 | Network Operations Center (NOC) System | Hệ thống Trung tâm Vận hành Mạng (NOC) |
+| 604 | Subscriber Identity Management System | Hệ thống Quản lý Thuê bao |
+| 605 | Telecom CRM System | Hệ thống CRM Viễn thông |
+| 606 | Prepaid & Postpaid Service Management System | Hệ thống Quản lý Dịch vụ Trả trước & Trả sau |
+| 607 | Mobile Number Portability System | Hệ thống Chuyển mạng Giữ số |
+| 608 | Roaming Management System | Hệ thống Quản lý Chuyển vùng Quốc tế |
+| 609 | Telecom Fraud Management System | Hệ thống Chống Gian lận Viễn thông |
+| 610 | Telecom Network Inventory System | Hệ thống Quản lý Tài sản Mạng Viễn thông |
+| 611 | Telecom Order Management System | Hệ thống Quản lý Đơn hàng Viễn thông |
+| 612 | Service Provisioning System | Hệ thống Cung cấp Dịch vụ |
+| 613 | Internet Service Provider (ISP) Management System | Hệ thống Quản lý Nhà cung cấp Dịch vụ Internet |
+| 614 | Broadband Installation & Management System | Hệ thống Quản lý Lắp đặt Băng thông rộng |
+| 615 | Telecom Analytics Platform | Nền tảng Phân tích Dữ liệu Viễn thông |
+| 616 | SIM Card Management System | Hệ thống Quản lý SIM Card |
+| 617 | Telecom Complaint & Support System | Hệ thống Khiếu nại & Hỗ trợ Viễn thông |
+| 618 | Value-Added Services (VAS) Management System | Hệ thống Quản lý Dịch vụ Giá trị Gia tăng |
+| 619 | Spectrum Management System | Hệ thống Quản lý Phổ Tần số Vô tuyến |
+| 620 | Tower & Infrastructure Management System | Hệ thống Quản lý Cột ăng-ten & Hạ tầng |
+| 621 | Satellite Communication Management System | Hệ thống Quản lý Truyền thông Vệ tinh |
+| 622 | 5G Network Slicing Management System | Hệ thống Quản lý Phân mảnh Mạng 5G |
+| 623 | Telecom Regulatory Compliance System | Hệ thống Tuân thủ Pháp lý Viễn thông |
+| 624 | Enterprise Telecom Service Management System | Hệ thống Quản lý Dịch vụ Viễn thông Doanh nghiệp |
+| 625 | MVNO (Virtual Network Operator) Management System | Hệ thống Quản lý Mạng ảo Di động (MVNO) |
+| 626 | Telecom Partner & Interconnect Management System | Hệ thống Quản lý Đối tác & Kết nối Liên mạng |
+| 627 | Telephone Exchange Management System | Hệ thống Quản lý Tổng đài Điện thoại |
+| 628 | Data Usage Monitoring & Throttling System | Hệ thống Theo dõi & Kiểm soát Lưu lượng Dữ liệu |
+| 629 | Telecom Customer Churn Prediction System | Hệ thống Dự đoán Thuê bao Rời mạng |
+| 630 | IoT Connectivity Management Platform | Nền tảng Quản lý Kết nối IoT |
+
+---
+
+## 🎬 DOMAIN 14: Entertainment & Media | Giải trí & Truyền thông (631–660)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 631 | Video Streaming Platform | Nền tảng Phát trực tuyến Video |
+| 632 | Music Streaming System | Hệ thống Phát nhạc Trực tuyến |
+| 633 | Digital Content Management System | Hệ thống Quản lý Nội dung Số |
+| 634 | Online Gaming Platform | Nền tảng Trò chơi Trực tuyến |
+| 635 | News Publishing & Management System | Hệ thống Quản lý & Xuất bản Tin tức |
+| 636 | Podcast Management Platform | Nền tảng Quản lý Podcast |
+| 637 | E-Book Publishing System | Hệ thống Xuất bản Sách Điện tử |
+| 638 | Cinema Ticket Booking System | Hệ thống Đặt vé Rạp chiếu phim |
+| 639 | Theater & Performing Arts Ticketing System | Hệ thống Bán vé Nhà hát & Nghệ thuật Biểu diễn |
+| 640 | Digital Advertising Management System | Hệ thống Quản lý Quảng cáo Số |
+| 641 | Content Creator Monetization Platform | Nền tảng Kiếm tiền từ Nội dung Sáng tạo |
+| 642 | Social Media Management System | Hệ thống Quản lý Mạng Xã hội |
+| 643 | Broadcasting Management System | Hệ thống Quản lý Phát thanh Truyền hình |
+| 644 | Talent & Artist Management System | Hệ thống Quản lý Nghệ sĩ & Tài năng |
+| 645 | Game Level Design & Management System | Hệ thống Thiết kế & Quản lý Cấp độ Trò chơi |
+| 646 | VR/AR Content Distribution System | Hệ thống Phân phối Nội dung VR/AR |
+| 647 | Esports Tournament Management System | Hệ thống Quản lý Giải đấu Esports |
+| 648 | Animation & VFX Project Management System | Hệ thống Quản lý Dự án Hoạt hình & VFX |
+| 649 | Music Rights & Royalty Management System | Hệ thống Quản lý Bản quyền & Nhuận bút Âm nhạc |
+| 650 | Streaming Analytics Platform | Nền tảng Phân tích Streaming |
+| 651 | Digital Rights Management (DRM) System | Hệ thống Quản lý Bản quyền Số |
+| 652 | Photo Library Management System | Hệ thống Quản lý Thư viện Ảnh |
+| 653 | Influencer Marketing Platform | Nền tảng Tiếp thị Người ảnh hưởng |
+| 654 | Live Event Streaming System | Hệ thống Phát trực tiếp Sự kiện |
+| 655 | Fan Community & Engagement Platform | Nền tảng Cộng đồng Fan & Tương tác |
+| 656 | Subscription Content Platform | Nền tảng Nội dung Đăng ký |
+| 657 | TV Channel EPG Management System | Hệ thống Quản lý Lịch phát sóng Kênh Truyền hình |
+| 658 | Interactive Video Platform | Nền tảng Video Tương tác |
+| 659 | Merchandise & Fan Goods Management System | Hệ thống Quản lý Hàng hóa Thương hiệu & Fan |
+| 660 | Media Asset Management System | Hệ thống Quản lý Tài sản Truyền thông |
+
+---
+
+## 🏃 DOMAIN 15: Sports & Fitness | Thể thao & Sức khỏe (661–690)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 661 | Sports Club Management System | Hệ thống Quản lý Câu lạc bộ Thể thao |
+| 662 | Gym & Fitness Center Management System | Hệ thống Quản lý Phòng tập Gym & Thể hình |
+| 663 | Sports Tournament Management System | Hệ thống Quản lý Giải đấu Thể thao |
+| 664 | Athlete Performance Tracking System | Hệ thống Theo dõi Hiệu suất Vận động viên |
+| 665 | Sports Facility Booking System | Hệ thống Đặt sân Thể thao |
+| 666 | Online Personal Training System | Hệ thống Huấn luyện Cá nhân Trực tuyến |
+| 667 | Sports Equipment Rental System | Hệ thống Cho thuê Thiết bị Thể thao |
+| 668 | Fantasy Sports Platform | Nền tảng Thể thao Fantasy |
+| 669 | Sports Betting & Odds Management System | Hệ thống Quản lý Cá cược Thể thao |
+| 670 | Marathon & Running Event Management System | Hệ thống Quản lý Giải Chạy Marathon |
+| 671 | Swimming Pool Management System | Hệ thống Quản lý Hồ bơi |
+| 672 | Sports Nutrition Management System | Hệ thống Quản lý Dinh dưỡng Thể thao |
+| 673 | Wearable Fitness Data Analytics System | Hệ thống Phân tích Dữ liệu Fitness Wearable |
+| 674 | Youth Sports Development System | Hệ thống Phát triển Thể thao Trẻ em |
+| 675 | Sports Injury Tracking & Recovery System | Hệ thống Theo dõi Chấn thương & Phục hồi Thể thao |
+| 676 | Team & Player Registration System | Hệ thống Đăng ký Đội & Cầu thủ |
+| 677 | Stadium Ticketing & Access System | Hệ thống Bán vé & Kiểm soát Vào sân |
+| 678 | Sports Scholarship Management System | Hệ thống Quản lý Học bổng Thể thao |
+| 679 | Golf Course Management System | Hệ thống Quản lý Sân Golf |
+| 680 | Cycling Event Management System | Hệ thống Quản lý Giải đua Xe đạp |
+| 681 | Sports Broadcasting Rights Management System | Hệ thống Quản lý Bản quyền Phát sóng Thể thao |
+| 682 | Sports Analytics & Data Platform | Nền tảng Phân tích Dữ liệu Thể thao |
+| 683 | Boxing & Martial Arts Event System | Hệ thống Tổ chức Sự kiện Quyền anh & Võ thuật |
+| 684 | National Sports Federation Management System | Hệ thống Quản lý Liên đoàn Thể thao Quốc gia |
+| 685 | Sports Referee & Official Management System | Hệ thống Quản lý Trọng tài & Chuyên gia Thể thao |
+| 686 | Indoor Sports Complex Management System | Hệ thống Quản lý Trung tâm Thể thao Trong nhà |
+| 687 | Esports Player Registry System | Hệ thống Đăng ký Người chơi Esports |
+| 688 | Sports Merchandise E-Commerce System | Hệ thống Thương mại Điện tử Đồ thể thao |
+| 689 | Paraolympics & Adaptive Sports System | Hệ thống Quản lý Thể thao Người khuyết tật |
+| 690 | Sports Camp Registration System | Hệ thống Đăng ký Trại Hè Thể thao |
+
+---
+
+## ✈️ DOMAIN 16: Travel & Tourism | Du lịch (691–720)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 691 | Online Travel Booking System | Hệ thống Đặt chỗ Du lịch Trực tuyến |
+| 692 | Airline Reservation System | Hệ thống Đặt vé Hàng không |
+| 693 | Tour Package Management System | Hệ thống Quản lý Gói Tour Du lịch |
+| 694 | Travel Agency Management System | Hệ thống Quản lý Đại lý Du lịch |
+| 695 | Visa Application Management System | Hệ thống Quản lý Đơn xin Visa |
+| 696 | Destination Management System | Hệ thống Quản lý Điểm đến |
+| 697 | Airport Management System | Hệ thống Quản lý Sân bay |
+| 698 | Airline Check-in System | Hệ thống Làm thủ tục Hàng không |
+| 699 | Baggage Tracking & Management System | Hệ thống Theo dõi & Quản lý Hành lý |
+| 700 | Travel Insurance Booking System | Hệ thống Đặt Bảo hiểm Du lịch |
+| 701 | Cruise Ship Management System | Hệ thống Quản lý Tàu Du lịch |
+| 702 | Global Distribution System (GDS) Integration | Hệ thống Tích hợp Phân phối Toàn cầu (GDS) |
+| 703 | Loyalty Miles & Points Management System | Hệ thống Quản lý Điểm Dặm bay Khách hàng Thân thiết |
+| 704 | Ecotourism Management System | Hệ thống Quản lý Du lịch Sinh thái |
+| 705 | Cultural Heritage Tourism System | Hệ thống Quản lý Du lịch Di sản Văn hóa |
+| 706 | Tour Guide Management System | Hệ thống Quản lý Hướng dẫn Viên Du lịch |
+| 707 | Travel Blog & Community Platform | Nền tảng Blog & Cộng đồng Du lịch |
+| 708 | Airport Duty-Free Shop System | Hệ thống Cửa hàng Miễn thuế Sân bay |
+| 709 | Backpacker & Hostel Booking System | Hệ thống Đặt Hostel Cho Khách Bụi |
+| 710 | Medical Tourism Coordination System | Hệ thống Điều phối Du lịch Y tế |
+| 711 | Currency Exchange at Tourist Destinations System | Hệ thống Đổi ngoại tệ Tại điểm Du lịch |
+| 712 | Travel Carbon Offset Management System | Hệ thống Quản lý Bù đắp Carbon Du lịch |
+| 713 | Group Tour Management System | Hệ thống Quản lý Tour Nhóm |
+| 714 | Travel Expense Reporting System | Hệ thống Báo cáo Chi phí Công tác |
+| 715 | Adventure Tourism Booking System | Hệ thống Đặt Tour Phiêu lưu Mạo hiểm |
+| 716 | Rail & Train Ticket Booking System | Hệ thống Đặt vé Đường sắt & Tàu |
+| 717 | MICE Event Management System | Hệ thống Quản lý Sự kiện MICE |
+| 718 | Travel Influencer Partnership Platform | Nền tảng Hợp tác KOL Du lịch |
+| 719 | Luxury Travel Concierge System | Hệ thống Dịch vụ Du lịch Cao cấp Cá nhân hóa |
+| 720 | Digital Nomad Work & Travel Platform | Nền tảng Làm việc & Du lịch Số |
+
+---
+
+## 🌾 DOMAIN 17: Agriculture & Environment | Nông nghiệp & Môi trường (721–750)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 721 | Farm Management System | Hệ thống Quản lý Trang trại |
+| 722 | Crop Monitoring & Management System | Hệ thống Giám sát & Quản lý Mùa vụ |
+| 723 | Agricultural Supply Chain Management System | Hệ thống Quản lý Chuỗi cung ứng Nông nghiệp |
+| 724 | Smart Irrigation Management System | Hệ thống Quản lý Tưới tiêu Thông minh |
+| 725 | Livestock & Animal Husbandry Management System | Hệ thống Quản lý Chăn nuôi Gia súc |
+| 726 | Aquaculture Management System | Hệ thống Quản lý Nuôi trồng Thủy sản |
+| 727 | Pesticide & Fertilizer Management System | Hệ thống Quản lý Thuốc trừ sâu & Phân bón |
+| 728 | Agricultural Market Price Information System | Hệ thống Thông tin Giá cả Thị trường Nông sản |
+| 729 | Food Traceability from Farm to Table System | Hệ thống Truy xuất Nguồn gốc Thực phẩm Từ Nông trại đến Bàn ăn |
+| 730 | Precision Agriculture Platform | Nền tảng Nông nghiệp Chính xác |
+| 731 | Agricultural Subsidy Management System | Hệ thống Quản lý Trợ cấp Nông nghiệp |
+| 732 | Plant Disease Detection System | Hệ thống Phát hiện Dịch bệnh Cây trồng |
+| 733 | Weather Forecasting for Agriculture System | Hệ thống Dự báo Thời tiết Nông nghiệp |
+| 734 | Drone-based Crop Surveillance System | Hệ thống Giám sát Mùa vụ Bằng Drone |
+| 735 | Agricultural Equipment Management System | Hệ thống Quản lý Máy móc Nông nghiệp |
+| 736 | Organic Farming Certification System | Hệ thống Chứng nhận Nông nghiệp Hữu cơ |
+| 737 | Environmental Impact Assessment System | Hệ thống Đánh giá Tác động Môi trường |
+| 738 | Air Quality Monitoring System | Hệ thống Giám sát Chất lượng Không khí |
+| 739 | Water Quality Management System | Hệ thống Quản lý Chất lượng Nước |
+| 740 | Soil Health Monitoring System | Hệ thống Giám sát Sức khỏe Đất |
+| 741 | Carbon Emission Tracking System | Hệ thống Theo dõi Phát thải Carbon |
+| 742 | Wildlife Conservation Management System | Hệ thống Quản lý Bảo tồn Động vật Hoang dã |
+| 743 | Forestry Resource Management System | Hệ thống Quản lý Tài nguyên Lâm nghiệp |
+| 744 | Greenhouse Management System | Hệ thống Quản lý Nhà kính |
+| 745 | Agricultural Loan & Credit System | Hệ thống Tín dụng & Vay vốn Nông nghiệp |
+| 746 | Vertical Farming Management System | Hệ thống Quản lý Nông nghiệp Đô thị theo Chiều dọc |
+| 747 | Beekeeping Management System | Hệ thống Quản lý Nuôi Ong |
+| 748 | Irrigation Canal Management System | Hệ thống Quản lý Kênh Thủy lợi |
+| 749 | Community Supported Agriculture (CSA) Platform | Nền tảng Nông nghiệp Được Cộng đồng Hỗ trợ |
+| 750 | Climate Change Impact Monitoring System | Hệ thống Giám sát Tác động Biến đổi Khí hậu |
+
+---
+
+## ⚡ DOMAIN 18: Energy & Utilities | Năng lượng & Tiện ích (751–780)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 751 | Electricity Grid Management System | Hệ thống Quản lý Lưới điện |
+| 752 | Smart Meter Management System | Hệ thống Quản lý Đồng hồ Thông minh |
+| 753 | Energy Billing & Revenue System | Hệ thống Thanh toán & Doanh thu Năng lượng |
+| 754 | Renewable Energy Management System | Hệ thống Quản lý Năng lượng Tái tạo |
+| 755 | Solar Farm Management System | Hệ thống Quản lý Trang trại Điện Mặt trời |
+| 756 | Wind Farm Management System | Hệ thống Quản lý Trang trại Điện Gió |
+| 757 | Oil & Gas Field Management System | Hệ thống Quản lý Mỏ Dầu & Khí |
+| 758 | Power Plant Operations Management System | Hệ thống Vận hành Nhà máy Điện |
+| 759 | Energy Trading & Market System | Hệ thống Giao dịch & Thị trường Năng lượng |
+| 760 | Electric Vehicle Charging Network System | Hệ thống Mạng Sạc Xe Điện |
+| 761 | SCADA (Supervisory Control & Data Acquisition) System | Hệ thống Điều khiển Giám sát & Thu thập Dữ liệu |
+| 762 | Energy Demand Forecasting System | Hệ thống Dự báo Nhu cầu Năng lượng |
+| 763 | Pipeline Monitoring & Management System | Hệ thống Theo dõi & Quản lý Đường ống |
+| 764 | Energy Audit & Conservation System | Hệ thống Kiểm toán & Bảo tồn Năng lượng |
+| 765 | Water Utility Management System | Hệ thống Quản lý Tiện ích Nước sạch |
+| 766 | Gas Distribution Management System | Hệ thống Quản lý Phân phối Khí đốt |
+| 767 | Nuclear Power Plant Management System | Hệ thống Quản lý Nhà máy Điện Hạt nhân |
+| 768 | Carbon Credit Trading System | Hệ thống Giao dịch Tín chỉ Carbon |
+| 769 | Hydropower Management System | Hệ thống Quản lý Thủy điện |
+| 770 | Energy Storage Management System | Hệ thống Quản lý Lưu trữ Năng lượng |
+| 771 | Virtual Power Plant System | Hệ thống Nhà máy Điện Ảo |
+| 772 | Utility Asset Management System | Hệ thống Quản lý Tài sản Tiện ích |
+| 773 | Energy Compliance & Regulatory System | Hệ thống Tuân thủ & Pháp lý Năng lượng |
+| 774 | Outage Management System | Hệ thống Quản lý Sự cố Mất điện |
+| 775 | Biomass Energy Management System | Hệ thống Quản lý Năng lượng Sinh khối |
+| 776 | Geothermal Plant Management System | Hệ thống Quản lý Nhà máy Địa nhiệt |
+| 777 | District Heating & Cooling Management System | Hệ thống Quản lý Sưởi ấm & Làm mát Khu vực |
+| 778 | LNG (Liquefied Natural Gas) Management System | Hệ thống Quản lý Khí tự nhiên Hóa lỏng (LNG) |
+| 779 | Energy Community Microgrid System | Hệ thống Lưới điện Siêu nhỏ Cộng đồng |
+| 780 | Hydrogen Energy Management System | Hệ thống Quản lý Năng lượng Hydro |
+
+---
+
+## 🏗️ DOMAIN 19: Construction | Xây dựng (781–810)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 781 | Construction Project Management System | Hệ thống Quản lý Dự án Xây dựng |
+| 782 | Building Information Modeling (BIM) System | Hệ thống Mô hình Thông tin Công trình (BIM) |
+| 783 | Construction Material Management System | Hệ thống Quản lý Vật liệu Xây dựng |
+| 784 | Site Safety Management System | Hệ thống Quản lý An toàn Công trường |
+| 785 | Construction Cost Estimation System | Hệ thống Ước tính Chi phí Xây dựng |
+| 786 | Subcontractor Management System | Hệ thống Quản lý Nhà thầu Phụ |
+| 787 | Construction Progress Tracking System | Hệ thống Theo dõi Tiến độ Xây dựng |
+| 788 | Architectural Design Management System | Hệ thống Quản lý Thiết kế Kiến trúc |
+| 789 | Building Permit & Approval System | Hệ thống Cấp phép & Phê duyệt Công trình |
+| 790 | Construction Equipment Rental System | Hệ thống Cho thuê Thiết bị Xây dựng |
+| 791 | Quality Inspection Management System (Construction) | Hệ thống Quản lý Kiểm tra Chất lượng Xây dựng |
+| 792 | Environmental Monitoring System (Construction) | Hệ thống Giám sát Môi trường Công trường |
+| 793 | Construction Workforce Management System | Hệ thống Quản lý Lực lượng Lao động Xây dựng |
+| 794 | Building Handover & Snagging System | Hệ thống Bàn giao & Kiểm tra Lỗi Công trình |
+| 795 | Infrastructure Asset Management System | Hệ thống Quản lý Tài sản Hạ tầng |
+| 796 | Civil Engineering Works Management System | Hệ thống Quản lý Công trình Kỹ thuật Dân dụng |
+| 797 | Smart Construction Site Monitoring System | Hệ thống Giám sát Công trường Thông minh |
+| 798 | Structural Inspection & Monitoring System | Hệ thống Kiểm tra & Giám sát Kết cấu |
+| 799 | Green Building Design Management System | Hệ thống Quản lý Thiết kế Công trình Xanh |
+| 800 | Property Developer Project Management System | Hệ thống Quản lý Dự án Chủ đầu tư Bất động sản |
+| 801 | Construction Payment Certificate System | Hệ thống Chứng chỉ Thanh toán Xây dựng |
+| 802 | Land Survey & Mapping System | Hệ thống Khảo sát & Lập bản đồ Địa chính |
+| 803 | Demolition Project Management System | Hệ thống Quản lý Dự án Phá dỡ Công trình |
+| 804 | Urban Infrastructure Planning System | Hệ thống Lập kế hoạch Hạ tầng Đô thị |
+| 805 | Construction Procurement System | Hệ thống Mua sắm Xây dựng |
+| 806 | MEP (Mechanical, Electrical, Plumbing) Management System | Hệ thống Quản lý Cơ điện Lạnh (MEP) |
+| 807 | Construction Claim & Dispute Management System | Hệ thống Quản lý Khiếu kiện & Tranh chấp Xây dựng |
+| 808 | Building Code Compliance System | Hệ thống Tuân thủ Quy chuẩn Xây dựng |
+| 809 | Geotechnical Investigation Management System | Hệ thống Quản lý Khảo sát Địa kỹ thuật |
+| 810 | Construction Risk Management System | Hệ thống Quản lý Rủi ro Xây dựng |
+
+---
+
+## 🔒 DOMAIN 20: Security & Surveillance | An ninh & Giám sát (811–840)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 811 | CCTV & Video Surveillance Management System | Hệ thống Quản lý Camera CCTV & Giám sát Video |
+| 812 | Access Control Management System | Hệ thống Quản lý Kiểm soát Truy cập |
+| 813 | Cybersecurity Incident Management System | Hệ thống Quản lý Sự cố An ninh Mạng |
+| 814 | Intrusion Detection & Prevention System | Hệ thống Phát hiện & Ngăn chặn Xâm nhập |
+| 815 | Identity & Access Management (IAM) System | Hệ thống Quản lý Danh tính & Quyền Truy cập |
+| 816 | Alarm & Alert Management System | Hệ thống Quản lý Báo động & Cảnh báo |
+| 817 | Biometric Verification System | Hệ thống Xác minh Sinh trắc học |
+| 818 | Visitor Management & Badge System | Hệ thống Quản lý Khách thăm & Thẻ ra vào |
+| 819 | Security Operations Center (SOC) Platform | Nền tảng Trung tâm Vận hành An ninh (SOC) |
+| 820 | Threat Intelligence Management System | Hệ thống Quản lý Thông tin Tình báo Mối đe dọa |
+| 821 | Vulnerability Management System | Hệ thống Quản lý Lỗ hổng Bảo mật |
+| 822 | Data Loss Prevention (DLP) System | Hệ thống Ngăn chặn Mất mát Dữ liệu (DLP) |
+| 823 | Penetration Testing Management System | Hệ thống Quản lý Kiểm thử Xâm nhập |
+| 824 | Security Audit & Compliance System | Hệ thống Kiểm toán & Tuân thủ An ninh |
+| 825 | Physical Security Management System | Hệ thống Quản lý An ninh Vật lý |
+| 826 | Fraud Investigation Management System | Hệ thống Quản lý Điều tra Gian lận |
+| 827 | License Plate Recognition System | Hệ thống Nhận dạng Biển số Xe |
+| 828 | Facial Recognition System | Hệ thống Nhận diện Khuôn mặt |
+| 829 | Guard Patrol Management System | Hệ thống Quản lý Tuần tra Bảo vệ |
+| 830 | Emergency Notification & Alert System | Hệ thống Thông báo & Cảnh báo Khẩn cấp |
+| 831 | Fire Alarm & Suppression Management System | Hệ thống Quản lý Báo cháy & Chữa cháy |
+| 832 | Cyber Threat Hunting Platform | Nền tảng Săn lùng Mối đe dọa Mạng |
+| 833 | Privileged Access Management System | Hệ thống Quản lý Quyền Truy cập Đặc quyền |
+| 834 | Security Awareness Training System | Hệ thống Đào tạo Nhận thức An ninh |
+| 835 | Digital Forensics Management System | Hệ thống Quản lý Pháp y Số |
+| 836 | Cloud Security Management System | Hệ thống Quản lý An ninh Đám mây |
+| 837 | Supply Chain Security Management System | Hệ thống Quản lý An ninh Chuỗi cung ứng |
+| 838 | Security Information & Event Management (SIEM) System | Hệ thống Quản lý Thông tin & Sự kiện An ninh (SIEM) |
+| 839 | Zero-Trust Network Access Management System | Hệ thống Quản lý Truy cập Mạng Zero-Trust |
+| 840 | Endpoint Detection & Response (EDR) System | Hệ thống Phát hiện & Ứng phó Điểm cuối (EDR) |
+
+---
+
+## 🎪 DOMAIN 21: Event Management | Quản lý Sự kiện (841–865)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 841 | Event Planning & Management System | Hệ thống Lập kế hoạch & Quản lý Sự kiện |
+| 842 | Event Ticketing & Registration System | Hệ thống Bán vé & Đăng ký Sự kiện |
+| 843 | Conference & Summit Management System | Hệ thống Quản lý Hội nghị & Hội thảo |
+| 844 | Wedding Planning Management System | Hệ thống Quản lý Tổ chức Đám cưới |
+| 845 | Exhibition & Trade Show Management System | Hệ thống Quản lý Hội chợ & Triển lãm |
+| 846 | Concert & Music Festival Management System | Hệ thống Quản lý Hòa nhạc & Lễ hội Âm nhạc |
+| 847 | Virtual & Hybrid Event Platform | Nền tảng Sự kiện Ảo & Kết hợp |
+| 848 | Corporate Event Management System | Hệ thống Quản lý Sự kiện Doanh nghiệp |
+| 849 | Venue & Facility Booking System | Hệ thống Đặt Địa điểm & Cơ sở vật chất Sự kiện |
+| 850 | Sponsorship Management System | Hệ thống Quản lý Tài trợ |
+| 851 | Event Volunteer Management System | Hệ thống Quản lý Tình nguyện viên Sự kiện |
+| 852 | Event Catering Coordination System | Hệ thống Điều phối Phục vụ Ăn uống Sự kiện |
+| 853 | Event Analytics & Reporting System | Hệ thống Phân tích & Báo cáo Sự kiện |
+| 854 | Awards Ceremony Management System | Hệ thống Quản lý Lễ trao Giải thưởng |
+| 855 | Public Festival & Holiday Event System | Hệ thống Quản lý Lễ hội Công cộng |
+| 856 | Charity Gala & Fundraising Event System | Hệ thống Tổ chức Sự kiện Gây quỹ Từ thiện |
+| 857 | Product Launch Event Management System | Hệ thống Quản lý Sự kiện Ra mắt Sản phẩm |
+| 858 | Speaker & Agenda Management System | Hệ thống Quản lý Diễn giả & Chương trình |
+| 859 | Event Crew & Logistics System | Hệ thống Hậu cần & Nhân sự Sự kiện |
+| 860 | Attendee Engagement & Networking System | Hệ thống Tương tác & Kết nối Người tham dự |
+| 861 | Event Badge & Check-in System | Hệ thống Thẻ & Check-in Sự kiện |
+| 862 | Event Safety & Security Management System | Hệ thống Quản lý An toàn & An ninh Sự kiện |
+| 863 | Fashion Show Management System | Hệ thống Quản lý Buổi trình diễn Thời trang |
+| 864 | Sports Event Hosting Management System | Hệ thống Quản lý Đăng cai Sự kiện Thể thao |
+| 865 | Social & Networking Event Platform | Nền tảng Sự kiện Xã giao & Kết nối |
+
+---
+
+## ⚖️ DOMAIN 22: Legal & Compliance | Pháp lý & Tuân thủ (866–890)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 866 | Legal Case Management System | Hệ thống Quản lý Hồ sơ Pháp lý |
+| 867 | Contract Lifecycle Management System | Hệ thống Quản lý Vòng đời Hợp đồng |
+| 868 | Compliance Management System | Hệ thống Quản lý Tuân thủ |
+| 869 | Legal Document Management System | Hệ thống Quản lý Tài liệu Pháp lý |
+| 870 | Intellectual Property Management System | Hệ thống Quản lý Sở hữu Trí tuệ |
+| 871 | GDPR & Data Privacy Compliance System | Hệ thống Tuân thủ Bảo vệ Dữ liệu (GDPR) |
+| 872 | Law Firm Billing & Time Tracking System | Hệ thống Tính phí & Theo dõi Thời gian Luật sư |
+| 873 | E-Discovery & Legal Hold System | Hệ thống Phát hiện Điện tử & Lưu trữ Pháp lý |
+| 874 | Regulatory Change Management System | Hệ thống Quản lý Thay đổi Pháp lý |
+| 875 | Corporate Governance System | Hệ thống Quản trị Doanh nghiệp |
+| 876 | Patent Application Management System | Hệ thống Quản lý Đăng ký Bằng sáng chế |
+| 877 | Trademark Management System | Hệ thống Quản lý Nhãn hiệu |
+| 878 | Anti-Bribery & Corruption Compliance System | Hệ thống Tuân thủ Chống Hối lộ & Tham nhũng |
+| 879 | Legal Research & Knowledge Management System | Hệ thống Nghiên cứu & Quản lý Kiến thức Pháp lý |
+| 880 | Court Filing & E-Litigation System | Hệ thống Nộp hồ sơ Tòa án & Tố tụng Điện tử |
+| 881 | Contract Template & Clause Library System | Hệ thống Thư viện Mẫu & Điều khoản Hợp đồng |
+| 882 | Corporate Secretary Management System | Hệ thống Quản lý Thư ký Công ty |
+| 883 | Data Breach Response Management System | Hệ thống Quản lý Ứng phó Vi phạm Dữ liệu |
+| 884 | Whistleblower Protection System | Hệ thống Bảo vệ Người tố cáo Nội bộ |
+| 885 | ESG (Environmental, Social, Governance) Reporting System | Hệ thống Báo cáo ESG |
+| 886 | Legal Entity Management System | Hệ thống Quản lý Pháp nhân |
+| 887 | Dispute Resolution Management System | Hệ thống Quản lý Giải quyết Tranh chấp |
+| 888 | Employment Law Compliance System | Hệ thống Tuân thủ Luật Lao động |
+| 889 | Export Control Compliance System | Hệ thống Tuân thủ Kiểm soát Xuất khẩu |
+| 890 | Legal Hold & Litigation Support System | Hệ thống Hỗ trợ Lưu giữ Pháp lý & Tố tụng |
+
+---
+
+## 🌐 DOMAIN 23: IT & Software | Công nghệ Thông tin & Phần mềm (891–940)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 891 | IT Service Management (ITSM) System | Hệ thống Quản lý Dịch vụ CNTT (ITSM) |
+| 892 | Help Desk & Ticketing System | Hệ thống Hỗ trợ Kỹ thuật & Ticket |
+| 893 | Software Development Lifecycle Management System | Hệ thống Quản lý Vòng đời Phát triển Phần mềm |
+| 894 | DevOps Pipeline Management System | Hệ thống Quản lý Pipeline DevOps |
+| 895 | Cloud Resource Management System | Hệ thống Quản lý Tài nguyên Đám mây |
+| 896 | API Management Platform | Nền tảng Quản lý API |
+| 897 | Database Administration System | Hệ thống Quản trị Cơ sở dữ liệu |
+| 898 | Software Testing Management System | Hệ thống Quản lý Kiểm thử Phần mềm |
+| 899 | IT Asset Management System | Hệ thống Quản lý Tài sản CNTT |
+| 900 | Network Monitoring System | Hệ thống Giám sát Mạng |
+| 901 | Configuration Management System (CMDB) | Hệ thống Quản lý Cấu hình (CMDB) |
+| 902 | Software License Management System | Hệ thống Quản lý Bản quyền Phần mềm |
+| 903 | Backup & Disaster Recovery System | Hệ thống Sao lưu & Khắc phục Thảm họa |
+| 904 | Change & Release Management System | Hệ thống Quản lý Thay đổi & Phát hành |
+| 905 | Microservices Registry & Management System | Hệ thống Quản lý Microservices |
+| 906 | Data Governance & Catalog System | Hệ thống Quản trị & Danh mục Dữ liệu |
+| 907 | Business Intelligence & Analytics Platform | Nền tảng Tình báo Kinh doanh & Phân tích |
+| 908 | Enterprise Content Management System | Hệ thống Quản lý Nội dung Doanh nghiệp |
+| 909 | Project Portfolio Management System | Hệ thống Quản lý Danh mục Dự án |
+| 910 | Knowledge Base Management System | Hệ thống Quản lý Cơ sở Tri thức |
+| 911 | AI & Machine Learning Model Management System | Hệ thống Quản lý Mô hình AI & Học máy |
+| 912 | Data Warehouse Management System | Hệ thống Quản lý Kho Dữ liệu |
+| 913 | Robotic Process Automation (RPA) Platform | Nền tảng Tự động hóa Quy trình bằng Robot (RPA) |
+| 914 | Low-Code / No-Code Development Platform | Nền tảng Phát triển Low-Code / No-Code |
+| 915 | DevSecOps Security Management System | Hệ thống Quản lý Bảo mật DevSecOps |
+| 916 | Container & Kubernetes Management System | Hệ thống Quản lý Container & Kubernetes |
+| 917 | IT Capacity Planning System | Hệ thống Lập kế hoạch Năng lực CNTT |
+| 918 | Incident & Problem Management System | Hệ thống Quản lý Sự cố & Vấn đề CNTT |
+| 919 | Data Quality Management System | Hệ thống Quản lý Chất lượng Dữ liệu |
+| 920 | Multi-tenant SaaS Platform | Nền tảng SaaS Đa thuê bao |
+| 921 | Enterprise Integration Platform (EIP) | Nền tảng Tích hợp Doanh nghiệp |
+| 922 | IoT Platform & Device Management System | Nền tảng IoT & Quản lý Thiết bị |
+| 923 | Serverless Computing Management System | Hệ thống Quản lý Điện toán Serverless |
+| 924 | Edge Computing Management Platform | Nền tảng Quản lý Điện toán Biên |
+| 925 | Open Source Contribution Management System | Hệ thống Quản lý Đóng góp Mã nguồn Mở |
+| 926 | Software Defect Tracking System | Hệ thống Theo dõi Lỗi Phần mềm |
+| 927 | Technical Documentation Management System | Hệ thống Quản lý Tài liệu Kỹ thuật |
+| 928 | Code Review & Collaboration Platform | Nền tảng Review Code & Cộng tác |
+| 929 | IT Vendor & Contract Management System | Hệ thống Quản lý Nhà cung cấp & Hợp đồng CNTT |
+| 930 | Observability & Monitoring Platform | Nền tảng Quan sát & Giám sát Hệ thống |
+| 931 | Digital Transformation Management System | Hệ thống Quản lý Chuyển đổi Số |
+| 932 | Application Performance Management (APM) System | Hệ thống Quản lý Hiệu suất Ứng dụng (APM) |
+| 933 | IT Risk Management System | Hệ thống Quản lý Rủi ro CNTT |
+| 934 | Enterprise Service Bus (ESB) System | Hệ thống Bus Dịch vụ Doanh nghiệp (ESB) |
+| 935 | Data Analytics Pipeline System | Hệ thống Pipeline Phân tích Dữ liệu |
+| 936 | Software Architecture Documentation System | Hệ thống Tài liệu Kiến trúc Phần mềm |
+| 937 | IT Budget & Cost Management System | Hệ thống Quản lý Ngân sách & Chi phí CNTT |
+| 938 | Agile & Scrum Project Tracking System | Hệ thống Theo dõi Dự án Agile & Scrum |
+| 939 | Tech Talent Acquisition System | Hệ thống Tuyển dụng Nhân tài Công nghệ |
+| 940 | Software Quality Assurance (SQA) System | Hệ thống Đảm bảo Chất lượng Phần mềm |
+
+---
+
+## 🎯 DOMAIN 24: CRM & Marketing | Quản lý Khách hàng & Marketing (941–970)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 941 | Customer Relationship Management (CRM) System | Hệ thống Quản lý Quan hệ Khách hàng (CRM) |
+| 942 | Marketing Automation Platform | Nền tảng Tự động hóa Marketing |
+| 943 | Email Marketing Management System | Hệ thống Quản lý Email Marketing |
+| 944 | Customer Segmentation & Targeting System | Hệ thống Phân khúc & Nhắm mục tiêu Khách hàng |
+| 945 | Social Media Marketing System | Hệ thống Marketing Mạng Xã hội |
+| 946 | Content Marketing Management System | Hệ thống Quản lý Marketing Nội dung |
+| 947 | Search Engine Optimization (SEO) Management System | Hệ thống Quản lý Tối ưu hóa Công cụ Tìm kiếm |
+| 948 | Pay-Per-Click (PPC) Campaign Management System | Hệ thống Quản lý Chiến dịch Quảng cáo PPC |
+| 949 | Customer Feedback & Survey Management System | Hệ thống Quản lý Khảo sát & Phản hồi Khách hàng |
+| 950 | Multi-Channel Marketing Management System | Hệ thống Quản lý Marketing Đa kênh |
+| 951 | Marketing ROI Measurement System | Hệ thống Đo lường ROI Marketing |
+| 952 | Brand Management System | Hệ thống Quản lý Thương hiệu |
+| 953 | Customer Journey Mapping System | Hệ thống Bản đồ Hành trình Khách hàng |
+| 954 | Lead Generation & Nurturing System | Hệ thống Tạo & Nuôi dưỡng Khách hàng Tiềm năng |
+| 955 | Event-Triggered Marketing System | Hệ thống Marketing Kích hoạt Sự kiện |
+| 956 | Customer Data Platform (CDP) | Nền tảng Dữ liệu Khách hàng (CDP) |
+| 957 | Referral Marketing Management System | Hệ thống Quản lý Marketing Giới thiệu |
+| 958 | Market Research & Competitive Intelligence System | Hệ thống Nghiên cứu Thị trường & Thông tin Cạnh tranh |
+| 959 | Campaign Performance Tracking System | Hệ thống Theo dõi Hiệu suất Chiến dịch |
+| 960 | Customer Lifetime Value (CLV) Analytics System | Hệ thống Phân tích Giá trị Vòng đời Khách hàng |
+| 961 | Loyalty Program Management System | Hệ thống Quản lý Chương trình Khách hàng Trung thành |
+| 962 | Personalization Engine | Hệ thống Cá nhân hóa Trải nghiệm Khách hàng |
+| 963 | Digital Asset Management (DAM) System | Hệ thống Quản lý Tài sản Số |
+| 964 | Public Relations (PR) Management System | Hệ thống Quản lý Quan hệ Công chúng |
+| 965 | Sales Pipeline Management System | Hệ thống Quản lý Pipeline Bán hàng |
+| 966 | Chatbot & Conversational Marketing System | Hệ thống Chatbot & Marketing Hội thoại |
+| 967 | Account-Based Marketing (ABM) System | Hệ thống Marketing Theo Tài khoản (ABM) |
+| 968 | Customer Churn Prediction System | Hệ thống Dự đoán Khách hàng Rời bỏ |
+| 969 | Omnichannel Customer Support System | Hệ thống Hỗ trợ Khách hàng Đa kênh |
+| 970 | Marketing Budget & Spend Management System | Hệ thống Quản lý Ngân sách & Chi tiêu Marketing |
+
+---
+
+## 🌏 DOMAIN 25: Miscellaneous & Emerging | Đa lĩnh vực & Công nghệ Mới nổi (971–1000)
+
+| # | English | Tiếng Việt |
+|---|---------|-----------|
+| 971 | Non-Profit Organization Management System | Hệ thống Quản lý Tổ chức Phi lợi nhuận |
+| 972 | Charity & Donation Management System | Hệ thống Quản lý Từ thiện & Quyên góp |
+| 973 | Volunteer Management System | Hệ thống Quản lý Tình nguyện viên |
+| 974 | Research Institution Management System | Hệ thống Quản lý Viện Nghiên cứu |
+| 975 | Grant Application & Management System | Hệ thống Quản lý Đơn xin Tài trợ |
+| 976 | Think Tank Knowledge Management System | Hệ thống Quản lý Tri thức Think Tank |
+| 977 | Religious Organization Management System | Hệ thống Quản lý Tổ chức Tôn giáo |
+| 978 | Cemetery & Burial Services Management System | Hệ thống Quản lý Dịch vụ Nghĩa trang |
+| 979 | Pet Adoption & Animal Shelter System | Hệ thống Nhận nuôi Thú cưng & Trại Động vật |
+| 980 | Metaverse Real Estate Management System | Hệ thống Quản lý Bất động sản Metaverse |
+| 981 | NFT Marketplace & Digital Art System | Nền tảng Giao dịch NFT & Nghệ thuật Số |
+| 982 | Autonomous Robotics Management System | Hệ thống Quản lý Robot Tự động |
+| 983 | Space Mission Management System | Hệ thống Quản lý Sứ mệnh Không gian |
+| 984 | Quantum Computing Resource Management System | Hệ thống Quản lý Tài nguyên Máy tính Lượng tử |
+| 985 | Augmented Reality Navigation System | Hệ thống Dẫn đường Thực tế Tăng cường (AR) |
+| 986 | Brain-Computer Interface (BCI) Management System | Hệ thống Quản lý Giao diện Não-Máy tính |
+| 987 | Autonomous Warehouse Management System | Hệ thống Quản lý Kho Tự động |
+| 988 | Smart Home Automation System | Hệ thống Tự động hóa Nhà thông minh |
+| 989 | Connected Car Management System | Hệ thống Quản lý Xe Kết nối |
+| 990 | Personal AI Assistant Management System | Hệ thống Quản lý Trợ lý AI Cá nhân |
+| 991 | Digital Twin City Management System | Hệ thống Quản lý Bản sao Kỹ thuật số Thành phố |
+| 992 | Predictive Analytics Platform | Nền tảng Phân tích Dự đoán |
+| 993 | Circular Economy Management System | Hệ thống Quản lý Kinh tế Tuần hoàn |
+| 994 | Co-operative Society Management System | Hệ thống Quản lý Hợp tác xã |
+| 995 | Global Remittance Platform | Nền tảng Chuyển tiền Toàn cầu |
+| 996 | Disaster Preparedness & Simulation System | Hệ thống Chuẩn bị & Mô phỏng Thiên tai |
+| 997 | Cultural Institution Management System | Hệ thống Quản lý Cơ sở Văn hóa (Bảo tàng, Gallery) |
+| 998 | Community Center Management System | Hệ thống Quản lý Trung tâm Cộng đồng |
+| 999 | Senior Living Facility Management System | Hệ thống Quản lý Cơ sở Dưỡng lão |
+| 1000 | Integrated Smart City Management Platform | Nền tảng Quản lý Thành phố Thông minh Tích hợp |
+
+---
+
+## 📊 Thống kê theo Domain
+
+| # | Domain | Số lượng |
+|---|--------|---------|
+| 1 | Education & Learning | 50 |
+| 2 | Healthcare & Medical | 70 |
+| 3 | Finance & Banking | 70 |
+| 4 | E-Commerce & Retail | 50 |
+| 5 | Food & Restaurant | 40 |
+| 6 | Transportation & Logistics | 60 |
+| 7 | Human Resources & Payroll | 50 |
+| 8 | Real Estate & Property | 40 |
+| 9 | Manufacturing & Production | 45 |
+| 10 | Hotel & Hospitality | 40 |
+| 11 | Government & Public Services | 50 |
+| 12 | Insurance | 35 |
+| 13 | Telecommunications | 30 |
+| 14 | Entertainment & Media | 30 |
+| 15 | Sports & Fitness | 30 |
+| 16 | Travel & Tourism | 30 |
+| 17 | Agriculture & Environment | 30 |
+| 18 | Energy & Utilities | 30 |
+| 19 | Construction | 30 |
+| 20 | Security & Surveillance | 30 |
+| 21 | Event Management | 25 |
+| 22 | Legal & Compliance | 25 |
+| 23 | IT & Software | 50 |
+| 24 | CRM & Marketing | 30 |
+| 25 | Miscellaneous & Emerging | 30 |
+| | **TỔNG** | **1000** |

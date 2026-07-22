@@ -95,22 +95,22 @@ erDiagram
 
 ## Entity Description Table | Bảng mô tả Entity
 
-| # | Entity Name | Tên tiếng Việt | Mô tả chức năng | Key Attributes | Quan hệ chính |
-|---|-------------|----------------|-----------------|----------------|---------------|
+| # | Entity Name | Vietnamese Name | Description | Key Attributes | Main Relationships |
+|---|-------------|-----------------|-------------|----------------|-------------------|
 | 1 | USER | Người dùng | Lưu trữ tài khoản đăng nhập chung cho toàn bộ hệ thống | user_id, username, role | has profile STUDENT/TEACHER |
 | 2 | STUDENT | Sinh viên | Hồ sơ cá nhân và học vụ của sinh viên | student_id, full_name, major | registers for ENROLLMENT, incurs TUITION_FEE |
-| 3 | TEACHER | Giảng viên | Hồ sơ thông tin của đội ngũ giảng viên | teacher_id, full_name, department| teaches CLASS |
-| 4 | COURSE | Môn học | Thông tin danh mục môn học chung của nhà trường | course_id, course_code, credits| offered as CLASS |
+| 3 | TEACHER | Giảng viên | Hồ sơ thông tin của đội ngũ giảng viên | teacher_id, full_name, department | teaches CLASS |
+| 4 | COURSE | Môn học | Thông tin danh mục môn học chung của nhà trường | course_id, course_code, credits | offered as CLASS |
 | 5 | CLASS | Lớp học phần | Các lớp học được mở cụ thể theo từng học kỳ | class_id, semester, status | includes ENROLLMENT |
 | 6 | ENROLLMENT | Đăng ký học | Lưu thông tin sinh viên đăng ký vào các lớp học phần | enrollment_id, enrollment_date | receives GRADE, records ATTENDANCE |
 | 7 | GRADE | Điểm số | Lưu trữ điểm thành phần và điểm tổng kết của môn học | grade_id, total_score | thuộc về 1 ENROLLMENT |
 | 8 | ATTENDANCE | Điểm danh | Ghi nhận trạng thái điểm danh theo từng buổi học | attendance_id, session_date | thuộc về 1 ENROLLMENT |
 | 9 | TUITION_FEE | Công nợ học phí | Tổng kết số tiền phải đóng và đã đóng của sinh viên | fee_id, total_amount, status | paid via PAYMENT_TRANSACTION |
-| 10| PAYMENT_TRANSACTION | Giao dịch | Lưu log các lần thanh toán học phí qua cổng trực tuyến | transaction_id, amount, date | thuộc về 1 TUITION_FEE |
+| 10 | PAYMENT_TRANSACTION | Giao dịch | Lưu log các lần thanh toán học phí qua cổng trực tuyến | transaction_id, amount, date | thuộc về 1 TUITION_FEE |
 
 ## Relationship Description | Mô tả Quan hệ
 
-| # | From Entity | Cardinality | To Entity | Relationship Label | Diễn giải nghiệp vụ |
+| # | From Entity | Cardinality | To Entity | Relationship Label | Business Explanation |
 |---|-------------|-------------|-----------|-------------------|----------------------|
 | 1 | USER | one-to-zero-or-one | STUDENT | has profile | Một User có thể liên kết tới một hồ sơ Sinh viên (nếu role là student) |
 | 2 | USER | one-to-zero-or-one | TEACHER | has profile | Một User có thể liên kết tới một hồ sơ Giảng viên (nếu role là teacher) |
@@ -118,7 +118,7 @@ erDiagram
 | 4 | TEACHER | one-to-many | CLASS | teaches | Một Giảng viên có thể được phân công đứng lớp nhiều Lớp học phần |
 | 5 | STUDENT | one-to-many | ENROLLMENT | registers for | Một Sinh viên có thể đăng ký nhiều Lớp học phần (nhiều bản ghi Enrollment) |
 | 6 | CLASS | one-to-many | ENROLLMENT | includes | Một Lớp học phần chứa nhiều Sinh viên đăng ký tham gia |
-| 7 | ENROLLMENT| one-to-one | GRADE | receives | Mỗi bản ghi đăng ký học của sinh viên ứng với duy nhất một bảng điểm môn đó |
-| 8 | ENROLLMENT| one-to-many | ATTENDANCE | records | Mỗi bản ghi đăng ký học có thể có nhiều lượt điểm danh (theo từng buổi) |
+| 7 | ENROLLMENT | one-to-one | GRADE | receives | Mỗi bản ghi đăng ký học của sinh viên ứng với duy nhất một bảng điểm môn đó |
+| 8 | ENROLLMENT | one-to-many | ATTENDANCE | records | Mỗi bản ghi đăng ký học có thể có nhiều lượt điểm danh (theo từng buổi) |
 | 9 | STUDENT | one-to-many | TUITION_FEE | incurs | Một Sinh viên có nhiều hóa đơn công nợ học phí phát sinh qua các học kỳ |
-| 10| TUITION_FEE| one-to-many | PAYMENT_TRANSACTION| paid via | Một khoản nợ học phí có thể được chia làm nhiều lần thanh toán khác nhau |
+| 10 | TUITION_FEE | one-to-many | PAYMENT_TRANSACTION | paid via | Một khoản nợ học phí có thể được chia làm nhiều lần thanh toán khác nhau |

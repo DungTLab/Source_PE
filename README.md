@@ -69,6 +69,56 @@ Paste prompt vao chat -> AI tu xac dinh domain -> tao folder trong domain -> tao
 | # | Ten he thong | Domain | Folder | Ngay tao |
 |---|-------------|--------|--------|----------|
 | 1 | Restaurant Management System at Vincom | 05_Food_Restaurant | restaurant_management_vincom/ | 2026-07-21 |
+| 2 | IT Service Management (ITSM) System | 23_IT_Software | it_service_management_system/ | 2026-07-22 |
+| 3 | Help Desk & Ticketing System | 23_IT_Software | help_desk_and_ticketing_system/ | 2026-07-22 |
+| 4 | Software Development Lifecycle Management System | 23_IT_Software | software_development_lifecycle_management_system/ | 2026-07-22 |
+| 5 | DevOps Pipeline Management System | 23_IT_Software | devops_pipeline_management_system/ | 2026-07-22 |
+| 6 | Cloud Resource Management System | 23_IT_Software | cloud_resource_management_system/ | 2026-07-22 |
+| 7 | API Management Platform | 23_IT_Software | api_management_platform/ | 2026-07-22 |
+| 8 | Database Administration System | 23_IT_Software | database_administration_system/ | 2026-07-22 |
+| 9 | Software Testing Management System | 23_IT_Software | software_testing_management_system/ | 2026-07-22 |
+| 10 | IT Asset Management System | 23_IT_Software | it_asset_management_system/ | 2026-07-22 |
+| 11 | Network Monitoring System | 23_IT_Software | network_monitoring_system/ | 2026-07-22 |
+| 12 | Configuration Management System (CMDB) | 23_IT_Software | configuration_management_system_cmdb/ | 2026-07-22 |
+| 13 | Software License Management System | 23_IT_Software | software_license_management_system/ | 2026-07-22 |
+| 14 | Backup & Disaster Recovery System | 23_IT_Software | backup_and_disaster_recovery_system/ | 2026-07-22 |
+| 15 | Change & Release Management System | 23_IT_Software | change_and_release_management_system/ | 2026-07-22 |
+| 16 | Microservices Registry & Management System | 23_IT_Software | microservices_registry_and_management_system/ | 2026-07-22 |
+| 17 | Data Governance & Catalog System | 23_IT_Software | data_governance_and_catalog_system/ | 2026-07-22 |
+| 18 | Business Intelligence & Analytics Platform | 23_IT_Software | business_intelligence_and_analytics_platform/ | 2026-07-22 |
+| 19 | Enterprise Content Management System | 23_IT_Software | enterprise_content_management_system/ | 2026-07-22 |
+| 20 | Project Portfolio Management System | 23_IT_Software | project_portfolio_management_system/ | 2026-07-22 |
+| 21 | Knowledge Base Management System | 23_IT_Software | knowledge_base_management_system/ | 2026-07-22 |
+| 22 | AI & Machine Learning Model Management System | 23_IT_Software | ai_and_machine_learning_model_management_system/ | 2026-07-22 |
+| 23 | Data Warehouse Management System | 23_IT_Software | data_warehouse_management_system/ | 2026-07-22 |
+| 24 | Robotic Process Automation (RPA) Platform | 23_IT_Software | robotic_process_automation_rpa_platform/ | 2026-07-22 |
+| 25 | Low-Code / No-Code Development Platform | 23_IT_Software | low_code_no_code_development_platform/ | 2026-07-22 |
+| 26 | DevSecOps Security Management System | 23_IT_Software | devsecops_security_management_system/ | 2026-07-22 |
+| 27 | Container & Kubernetes Management System | 23_IT_Software | container_and_kubernetes_management_system/ | 2026-07-22 |
+| 28 | IT Capacity Planning System | 23_IT_Software | it_capacity_planning_system/ | 2026-07-22 |
+| 29 | Incident & Problem Management System | 23_IT_Software | incident_and_problem_management_system/ | 2026-07-22 |
+| 30 | Data Quality Management System | 23_IT_Software | data_quality_management_system/ | 2026-07-22 |
+| 31 | Multi-tenant SaaS Platform | 23_IT_Software | multi_tenant_saas_platform/ | 2026-07-22 |
+| 32 | Enterprise Integration Platform (EIP) | 23_IT_Software | enterprise_integration_platform_eip/ | 2026-07-22 |
+| 33 | IoT Platform & Device Management System | 23_IT_Software | iot_platform_and_device_management_system/ | 2026-07-22 |
+| 34 | Serverless Computing Management System | 23_IT_Software | serverless_computing_management_system/ | 2026-07-22 |
+| 35 | Edge Computing Management Platform | 23_IT_Software | edge_computing_management_platform/ | 2026-07-22 |
+| 36 | Open Source Contribution Management System | 23_IT_Software | open_source_contribution_management_system/ | 2026-07-22 |
+| 37 | Software Defect Tracking System | 23_IT_Software | software_defect_tracking_system/ | 2026-07-22 |
+| 38 | Technical Documentation Management System | 23_IT_Software | technical_documentation_management_system/ | 2026-07-22 |
+| 39 | Code Review & Collaboration Platform | 23_IT_Software | code_review_and_collaboration_platform/ | 2026-07-22 |
+| 40 | IT Vendor & Contract Management System | 23_IT_Software | it_vendor_and_contract_management_system/ | 2026-07-22 |
+| 41 | Observability & Monitoring Platform | 23_IT_Software | observability_and_monitoring_platform/ | 2026-07-22 |
+| 42 | Digital Transformation Management System | 23_IT_Software | digital_transformation_management_system/ | 2026-07-22 |
+| 43 | Application Performance Management (APM) System | 23_IT_Software | application_performance_management_apm_system/ | 2026-07-22 |
+| 44 | IT Risk Management System | 23_IT_Software | it_risk_management_system/ | 2026-07-22 |
+| 45 | Enterprise Service Bus (ESB) System | 23_IT_Software | enterprise_service_bus_esb_system/ | 2026-07-22 |
+| 46 | Data Analytics Pipeline System | 23_IT_Software | data_analytics_pipeline_system/ | 2026-07-22 |
+| 47 | Software Architecture Documentation System | 23_IT_Software | software_architecture_documentation_system/ | 2026-07-22 |
+| 48 | IT Budget & Cost Management System | 23_IT_Software | it_budget_and_cost_management_system/ | 2026-07-22 |
+| 49 | Agile & Scrum Project Tracking System | 23_IT_Software | agile_and_scrum_project_tracking_system/ | 2026-07-22 |
+| 50 | Tech Talent Acquisition System | 23_IT_Software | tech_talent_acquisition_system/ | 2026-07-22 |
+| 51 | Software Quality Assurance (SQA) System | 23_IT_Software | software_quality_assurance_sqa_system/ | 2026-07-22 |
 
 *(Cap nhat bang nay moi khi them he thong moi)*
 

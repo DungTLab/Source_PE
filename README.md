@@ -119,6 +119,66 @@ Paste prompt vao chat -> AI tu xac dinh domain -> tao folder trong domain -> tao
 | 49 | Agile & Scrum Project Tracking System | 23_IT_Software | agile_and_scrum_project_tracking_system/ | 2026-07-22 |
 | 50 | Tech Talent Acquisition System | 23_IT_Software | tech_talent_acquisition_system/ | 2026-07-22 |
 | 51 | Software Quality Assurance (SQA) System | 23_IT_Software | software_quality_assurance_sqa_system/ | 2026-07-22 |
+| 52 | Fleet Management System | 06_Transportation_Logistics | fleet_management_system/ | 2026-07-22 |
+| 53 | Ride-Hailing Platform | 06_Transportation_Logistics | ride_hailing_platform/ | 2026-07-22 |
+| 54 | Freight Management System | 06_Transportation_Logistics | freight_management_system/ | 2026-07-22 |
+| 55 | Warehouse Management System | 06_Transportation_Logistics | warehouse_management_system/ | 2026-07-22 |
+| 56 | Last-Mile Delivery Management System | 06_Transportation_Logistics | last_mile_delivery_management_system/ | 2026-07-22 |
+| 57 | Supply Chain Management System | 06_Transportation_Logistics | supply_chain_management_system/ | 2026-07-22 |
+| 58 | Route Optimization System | 06_Transportation_Logistics | route_optimization_system/ | 2026-07-22 |
+| 59 | Parcel Tracking System | 06_Transportation_Logistics | parcel_tracking_system/ | 2026-07-22 |
+| 60 | Container Terminal Management System | 06_Transportation_Logistics | container_terminal_management_system/ | 2026-07-22 |
+| 61 | Cargo Booking System | 06_Transportation_Logistics | cargo_booking_system/ | 2026-07-22 |
+| 62 | Cold Chain Logistics System | 06_Transportation_Logistics | cold_chain_logistics_system/ | 2026-07-22 |
+| 63 | Public Bus Management System | 06_Transportation_Logistics | public_bus_management_system/ | 2026-07-22 |
+| 64 | Taxi Dispatch System | 06_Transportation_Logistics | taxi_dispatch_system/ | 2026-07-22 |
+| 65 | Bicycle Sharing System | 06_Transportation_Logistics | bicycle_sharing_system/ | 2026-07-22 |
+| 66 | Electric Scooter Sharing System | 06_Transportation_Logistics | electric_scooter_sharing_system/ | 2026-07-22 |
+| 67 | Toll Management System | 06_Transportation_Logistics | toll_management_system/ | 2026-07-22 |
+| 68 | Vehicle Registration & Licensing System | 06_Transportation_Logistics | vehicle_registration_licensing_system/ | 2026-07-22 |
+| 69 | Traffic Management System | 06_Transportation_Logistics | traffic_management_system/ | 2026-07-22 |
+| 70 | Intelligent Transportation System (ITS) | 06_Transportation_Logistics | intelligent_transportation_system_its/ | 2026-07-22 |
+| 71 | Drone Delivery Management System | 06_Transportation_Logistics | drone_delivery_management_system/ | 2026-07-22 |
+| 72 | Customs & Border Control System | 06_Transportation_Logistics | customs_border_control_system/ | 2026-07-22 |
+| 73 | Shipment Booking Platform | 06_Transportation_Logistics | shipment_booking_platform/ | 2026-07-22 |
+| 74 | Logistics Partner Integration System | 06_Transportation_Logistics | logistics_partner_integration_system/ | 2026-07-22 |
+| 75 | Reverse Logistics Management System | 06_Transportation_Logistics | reverse_logistics_management_system/ | 2026-07-22 |
+| 76 | Fuel Management System | 06_Transportation_Logistics | fuel_management_system/ | 2026-07-22 |
+| 77 | Driver Management & Compliance System | 06_Transportation_Logistics | driver_management_compliance_system/ | 2026-07-22 |
+| 78 | Freight Brokerage Platform | 06_Transportation_Logistics | freight_brokerage_platform/ | 2026-07-22 |
+| 79 | Postal & Mail Management System | 06_Transportation_Logistics | postal_mail_management_system/ | 2026-07-22 |
+| 80 | Vehicle Maintenance Management System | 06_Transportation_Logistics | vehicle_maintenance_management_system/ | 2026-07-22 |
+| 81 | Cross-Docking Management System | 06_Transportation_Logistics | cross_docking_management_system/ | 2026-07-22 |
+| 82 | Autonomous Vehicle Fleet System | 06_Transportation_Logistics | autonomous_vehicle_fleet_system/ | 2026-07-22 |
+| 83 | Rail Freight Management System | 06_Transportation_Logistics | rail_freight_management_system/ | 2026-07-22 |
+| 84 | Air Cargo Management System | 06_Transportation_Logistics | air_cargo_management_system/ | 2026-07-22 |
+| 85 | Port & Terminal Operations System | 06_Transportation_Logistics | port_terminal_operations_system/ | 2026-07-22 |
+| 86 | Vehicle Inspection Management System | 06_Transportation_Logistics | vehicle_inspection_management_system/ | 2026-07-22 |
+| 87 | Ride-Pooling & Carpooling Platform | 06_Transportation_Logistics | ride_pooling_carpooling_platform/ | 2026-07-22 |
+| 88 | Last-Mile Locker System | 06_Transportation_Logistics | last_mile_locker_system/ | 2026-07-22 |
+| 89 | Intermodal Transport Management System | 06_Transportation_Logistics | intermodal_transport_management_system/ | 2026-07-22 |
+| 90 | Dangerous Goods Transport System | 06_Transportation_Logistics | dangerous_goods_transport_system/ | 2026-07-22 |
+| 91 | Transport Booking Aggregator | 06_Transportation_Logistics | transport_booking_aggregator/ | 2026-07-22 |
+| 92 | Smart Parking Management System | 06_Transportation_Logistics | smart_parking_management_system/ | 2026-07-22 |
+| 93 | Logistics Analytics Platform | 06_Transportation_Logistics | logistics_analytics_platform/ | 2026-07-22 |
+| 94 | Delivery Partner App System | 06_Transportation_Logistics | delivery_partner_app_system/ | 2026-07-22 |
+| 95 | Vehicle Leasing Management System | 06_Transportation_Logistics | vehicle_leasing_management_system/ | 2026-07-22 |
+| 96 | Moving & Relocation Service System | 06_Transportation_Logistics | moving_relocation_service_system/ | 2026-07-22 |
+| 97 | Cargo Insurance Management System | 06_Transportation_Logistics | cargo_insurance_management_system/ | 2026-07-22 |
+| 98 | GPS Asset Tracking System | 06_Transportation_Logistics | gps_asset_tracking_system/ | 2026-07-22 |
+| 99 | Logistics ERP System | 06_Transportation_Logistics | logistics_erp_system/ | 2026-07-22 |
+| 100 | Sustainable Logistics Management System | 06_Transportation_Logistics | sustainable_logistics_management_system/ | 2026-07-22 |
+| 101 | Urban Micro-Mobility System | 06_Transportation_Logistics | urban_micro_mobility_system/ | 2026-07-22 |
+| 102 | International Freight Forwarding System | 06_Transportation_Logistics | international_freight_forwarding_system/ | 2026-07-22 |
+| 103 | Shipyard Management System | 06_Transportation_Logistics | shipyard_management_system/ | 2026-07-22 |
+| 104 | Real-time Visibility & Tracking Platform | 06_Transportation_Logistics | real_time_visibility_tracking_platform/ | 2026-07-22 |
+| 105 | Hazardous Material Tracking System | 06_Transportation_Logistics | hazardous_material_tracking_system/ | 2026-07-22 |
+| 106 | Truck Load Optimization System | 06_Transportation_Logistics | truck_load_optimization_system/ | 2026-07-22 |
+| 107 | Returns & Exchange Logistics System | 06_Transportation_Logistics | returns_exchange_logistics_system/ | 2026-07-22 |
+| 108 | Transport Cost Calculation System | 06_Transportation_Logistics | transport_cost_calculation_system/ | 2026-07-22 |
+| 109 | Crowdsourced Delivery Platform | 06_Transportation_Logistics | crowdsourced_delivery_platform/ | 2026-07-22 |
+| 110 | Traffic Incident Reporting System | 06_Transportation_Logistics | traffic_incident_reporting_system/ | 2026-07-22 |
+| 111 | Multi-Modal Journey Planner | 06_Transportation_Logistics | multi_modal_journey_planner/ | 2026-07-22 |
 
 *(Cap nhat bang nay moi khi them he thong moi)*
 

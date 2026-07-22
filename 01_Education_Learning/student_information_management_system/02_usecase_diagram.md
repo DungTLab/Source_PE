@@ -3,28 +3,28 @@
 ## Mermaid Code
 
 ```mermaid
-%%{init: {'theme': 'default'}}%%
-graph LR
-    actor_Student["👤 Student"]
-    actor_Teacher["👤 Teacher"]
-    actor_Admin["👤 Academic Admin"]
-    actor_Parent["👤 Parent"]
+flowchart LR
+    actor_Student["Student"]
+    actor_Teacher["Teacher"]
+    actor_Admin["Academic Admin"]
+    actor_Parent["Parent"]
 
-    subgraph System["Student Information Management System"]
-        UC01["Login"]
-        UC02["Manage User Accounts"]
-        UC03["Register for Courses"]
-        UC04["View Schedule"]
-        UC05["Input Grades"]
-        UC06["View Grades"]
-        UC07["Take Attendance"]
-        UC08["Pay Tuition Fee"]
-        UC09["Generate Academic Reports"]
-        UC10["Manage Curriculum"]
-        UC11["Submit Assignments"]
-        UC12["Grade Assignments"]
-        UC13["Apply Discount Code"]
-        UC14["Reset Password"]
+    subgraph SystemBoundary["Student Information Management System"]
+        UC01(["Login"])
+        UC02(["Manage User Accounts"])
+        UC03(["Register for Courses"])
+        UC04(["View Schedule"])
+        UC05(["Input Grades"])
+        UC06(["View Grades"])
+        UC07(["Take Attendance"])
+        UC08(["Pay Tuition Fee"])
+        UC09(["Generate Academic Reports"])
+        UC10(["Manage Curriculum"])
+        UC11(["Submit Assignments"])
+        UC12(["Grade Assignments"])
+        UC13(["Apply Discount Code"])
+        UC14(["Reset Password"])
+        UC15(["Export Academic Transcript"])
     end
 
     actor_Student --> UC03
@@ -32,6 +32,7 @@ graph LR
     actor_Student --> UC06
     actor_Student --> UC08
     actor_Student --> UC11
+    actor_Student --> UC15
 
     actor_Teacher --> UC04
     actor_Teacher --> UC05
@@ -44,18 +45,19 @@ graph LR
 
     actor_Parent --> UC06
     actor_Parent --> UC08
-    
-    UC02 -->|"<<include>>"| UC01
-    UC03 -->|"<<include>>"| UC01
-    UC04 -->|"<<include>>"| UC01
-    UC05 -->|"<<include>>"| UC01
-    UC06 -->|"<<include>>"| UC01
-    UC07 -->|"<<include>>"| UC01
-    UC08 -->|"<<include>>"| UC01
-    UC09 -->|"<<include>>"| UC01
-    UC10 -->|"<<include>>"| UC01
-    UC11 -->|"<<include>>"| UC01
-    UC12 -->|"<<include>>"| UC01
+
+    UC02 -.->|"<<include>>"| UC01
+    UC03 -.->|"<<include>>"| UC01
+    UC04 -.->|"<<include>>"| UC01
+    UC05 -.->|"<<include>>"| UC01
+    UC06 -.->|"<<include>>"| UC01
+    UC07 -.->|"<<include>>"| UC01
+    UC08 -.->|"<<include>>"| UC01
+    UC09 -.->|"<<include>>"| UC01
+    UC10 -.->|"<<include>>"| UC01
+    UC11 -.->|"<<include>>"| UC01
+    UC12 -.->|"<<include>>"| UC01
+    UC15 -.->|"<<include>>"| UC01
 
     UC13 -.->|"<<extend>>"| UC08
     UC14 -.->|"<<extend>>"| UC01
@@ -63,9 +65,9 @@ graph LR
 
 ## Actor Table | Bảng Actor
 
-| # | Actor | Loại Actor | Mô tả vai trò | Use Cases liên quan |
-|---|-------|------------|----------------|---------------------|
-| 1 | Student | Primary | Người học trực tiếp tương tác hệ thống để đăng ký môn, xem lịch, nộp bài, thanh toán học phí | UC03, UC04, UC06, UC08, UC11 |
+| # | Actor | Actor Type | Role Description | Related Use Cases |
+|---|-------|------------|------------------|-------------------|
+| 1 | Student | Primary | Người học trực tiếp tương tác hệ thống để đăng ký môn, xem lịch, nộp bài, xem điểm và thanh toán học phí | UC03, UC04, UC06, UC08, UC11, UC15 |
 | 2 | Teacher | Primary | Giảng viên tham gia giảng dạy, nhập điểm, điểm danh, chấm bài sinh viên | UC04, UC05, UC07, UC12 |
 | 3 | Academic Admin | Primary | Quản trị viên giáo vụ phụ trách quản lý chương trình học, tài khoản, và trích xuất báo cáo | UC02, UC09, UC10 |
 | 4 | Parent | Primary | Phụ huynh sinh viên có nhu cầu xem điểm số và hỗ trợ đóng học phí cho con em | UC06, UC08 |
@@ -74,8 +76,8 @@ graph LR
 
 ## Use Case Table | Bảng Use Case
 
-| # | UC ID | Use Case Name | Actor chính | Actor phụ | Mô tả chức năng | Priority |
-|---|-------|---------------|-------------|-----------|-----------------|----------|
+| # | UC ID | Use Case Name | Primary Actor | Secondary Actor | Description | Priority |
+|---|-------|---------------|---------------|-----------------|-------------|----------|
 | 1 | UC01 | Login | All users | None | Xác thực danh tính người dùng để truy cập hệ thống | High |
 | 2 | UC02 | Manage User Accounts | Academic Admin | None | Thêm, sửa, xóa, cấp quyền tài khoản người dùng | High |
 | 3 | UC03 | Register for Courses | Student | None | Sinh viên chọn và đăng ký lớp học cho học kỳ mới | High |
@@ -84,21 +86,39 @@ graph LR
 | 6 | UC06 | View Grades | Student, Parent | None | Xem kết quả học tập và điểm số chi tiết các môn | High |
 | 7 | UC07 | Take Attendance | Teacher | None | Điểm danh sinh viên tham gia từng buổi học cụ thể | Medium |
 | 8 | UC08 | Pay Tuition Fee | Student, Parent | Payment Gateway | Thanh toán học phí trực tuyến qua cổng thanh toán | High |
-| 9 | UC09 | Generate Academic Reports| Academic Admin | None | Xuất các báo cáo thống kê tình hình học tập toàn trường | Medium |
-| 10| UC10 | Manage Curriculum | Academic Admin | None | Quản lý khung chương trình đào tạo, tạo mới môn học | High |
-| 11| UC11 | Submit Assignments | Student | None | Tải bài tập hoặc tiểu luận lên hệ thống nộp cho giảng viên | Medium |
-| 12| UC12 | Grade Assignments | Teacher | None | Chấm điểm bài tập, tiểu luận đã nộp của sinh viên | Medium |
-| 13| UC13 | Apply Discount Code | Student, Parent | None | Áp dụng mã giảm giá, học bổng khi thanh toán học phí | Low |
-| 14| UC14 | Reset Password | All users | Email Service | Khôi phục mật khẩu thông qua liên kết gửi vào email | High |
+| 9 | UC09 | Generate Academic Reports | Academic Admin | None | Xuất các báo cáo thống kê tình hình học tập toàn trường | Medium |
+| 10 | UC10 | Manage Curriculum | Academic Admin | None | Quản lý khung chương trình đào tạo, tạo mới môn học | High |
+| 11 | UC11 | Submit Assignments | Student | None | Tải bài tập hoặc tiểu luận lên hệ thống nộp cho giảng viên | Medium |
+| 12 | UC12 | Grade Assignments | Teacher | None | Chấm điểm bài tập, tiểu luận đã nộp của sinh viên | Medium |
+| 13 | UC13 | Apply Discount Code | Student, Parent | None | Áp dụng mã giảm giá, học bổng khi thanh toán học phí | Low |
+| 14 | UC14 | Reset Password | All users | Email Service | Khôi phục mật khẩu thông qua liên kết gửi vào email | High |
+| 15 | UC15 | Export Academic Transcript | Student | None | Xuất bảng điểm cá nhân dưới dạng tệp PDF/Excel | Medium |
 
 ## Use Case Specification | Đặc tả Use Case
 
 ---
 
+### UC01 — Login
+
+| Field | Detail |
+|-------|--------|
+| **UC ID** | UC01 |
+| **Use Case Name** | Login |
+| **Actor(s)** | Primary: All users (Student, Teacher, Academic Admin, Parent) / Secondary: None |
+| **Description** | Xác thực thông tin đăng nhập của người dùng để cấp quyền truy cập các chức năng phù hợp trong hệ thống. |
+| **Precondition** | 1. Người dùng đã có tài khoản được kích hoạt trên hệ thống. <br> 2. Người dùng đang ở trang đăng nhập của hệ thống. |
+| **Main Flow** | 1. Người dùng nhập tên đăng nhập (Username) và mật khẩu (Password). <br> 2. Người dùng nhấn nút "Đăng nhập". <br> 3. System mã hóa mật khẩu và truy vấn thông tin tài khoản trong cơ sở dữ liệu. <br> 4. System xác thực tài khoản hợp lệ và kiểm tra trạng thái hoạt động. <br> 5. System tạo phiên làm việc (Session/Token) và phân quyền theo Role của người dùng. <br> 6. System chuyển hướng người dùng đến trang Dashboard tương ứng với vai trò. |
+| **Alternative Flow** | **AF1** — Ghi nhớ đăng nhập: Nếu người dùng tích chọn "Remember Me" ở bước 1, System sẽ tạo refresh token có thời hạn dài trên thiết bị người dùng. <br> **AF2** — Đăng nhập bằng SSO: Ở bước 1, người dùng chọn đăng nhập bằng Google/Microsoft Edu, System chuyển hướng đến nhà cung cấp danh tính (IdP) để xác thực. |
+| **Exception Flow** | **EX1** — Tên đăng nhập hoặc mật khẩu sai: Ở bước 4, nếu thông tin không chính xác, System hiển thị thông báo "Tên đăng nhập hoặc mật khẩu không đúng" và tăng đếm số lần thất bại. <br> **EX2** — Tài khoản bị khóa: Nếu tài khoản nhập sai quá 5 lần liên tiếp, System tự động khóa tài khoản trong 15 phút và hiển thị cảnh báo. |
+| **Postcondition** | Phiên đăng nhập hợp lệ được khởi tạo, người dùng truy cập được vào giao diện chức năng tương ứng. |
+| **Business Rule** | **BR1**: Mật khẩu phải được mã hóa dạng hash (BCrypt/Argon2) trước khi so sánh. <br> **BR2**: Tài khoản bị cấm đăng nhập nếu trạng thái là "Inactive" hoặc "Suspended". |
+
+---
+
 ### UC03 — Register for Courses
 
-| Field | Detail / Chi tiết |
-|-------|-------------------|
+| Field | Detail |
+|-------|--------|
 | **UC ID** | UC03 |
 | **Use Case Name** | Register for Courses |
 | **Actor(s)** | Primary: Student / Secondary: None |
@@ -114,8 +134,8 @@ graph LR
 
 ### UC05 — Input Grades
 
-| Field | Detail / Chi tiết |
-|-------|-------------------|
+| Field | Detail |
+|-------|--------|
 | **UC ID** | UC05 |
 | **Use Case Name** | Input Grades |
 | **Actor(s)** | Primary: Teacher / Secondary: None |
@@ -131,8 +151,8 @@ graph LR
 
 ### UC07 — Take Attendance
 
-| Field | Detail / Chi tiết |
-|-------|-------------------|
+| Field | Detail |
+|-------|--------|
 | **UC ID** | UC07 |
 | **Use Case Name** | Take Attendance |
 | **Actor(s)** | Primary: Teacher / Secondary: None |
@@ -148,8 +168,8 @@ graph LR
 
 ### UC08 — Pay Tuition Fee
 
-| Field | Detail / Chi tiết |
-|-------|-------------------|
+| Field | Detail |
+|-------|--------|
 | **UC ID** | UC08 |
 | **Use Case Name** | Pay Tuition Fee |
 | **Actor(s)** | Primary: Student, Parent / Secondary: Payment Gateway |
